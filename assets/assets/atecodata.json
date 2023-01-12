@@ -1,0 +1,6007 @@
+[
+  {
+    "code": "01.11.10",
+    "description": "Coltivazione di cereali (escluso il riso)",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.11.20",
+    "description": "Coltivazione di semi oleosi",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.11.30",
+    "description": "Coltivazione di legumi da granella",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.11.40",
+    "description": "Coltivazioni miste di cereali, legumi da granella e semi oleosi",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.12.00",
+    "description": "Coltivazione di riso",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.13.10",
+    "description": "Coltivazione di ortaggi (inclusi i meloni) in foglia, a fusto, a frutto, in radici, bulbi e tuberi in piena aria (escluse barbabietola da zucchero e patate)",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.13.20",
+    "description": "Coltivazione di ortaggi (inclusi i meloni) in foglia, a fusto, a frutto, in radici, bulbi e tuberi in colture protette (escluse barbabietola da zucchero e patate)",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.13.30",
+    "description": "Coltivazione di barbabietola da zucchero",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.13.40",
+    "description": "Coltivazione di patate",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.14.00",
+    "description": "Coltivazione di canna da zucchero",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.15.00",
+    "description": "Coltivazione di tabacco",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.16.00",
+    "description": "Coltivazione di piante per la preparazione di fibre tessili",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.19.10",
+    "description": "Coltivazione di fiori in piena aria",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.19.20",
+    "description": "Coltivazione di fiori in colture protette",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.19.90",
+    "description": "Coltivazione di piante da foraggio e di altre colture non permanenti",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.21.00",
+    "description": "Coltivazione di uva",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.22.00",
+    "description": "Coltivazione di frutta di origine tropicale e subtropicale",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.23.00",
+    "description": "Coltivazione di agrumi",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.24.00",
+    "description": "Coltivazione di pomacee e frutta a nocciolo",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.25.00",
+    "description": "Coltivazione di altri alberi da frutta, frutti di bosco e frutta in guscio",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.26.00",
+    "description": "Coltivazione di frutti oleosi",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.27.00",
+    "description": "Coltivazione di piante per la produzione di bevande",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.28.00",
+    "description": "Coltivazione di spezie, piante aromatiche e farmaceutiche",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.29.00",
+    "description": "Coltivazione di altre colture permanenti (inclusi alberi di Natale)",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.30.00",
+    "description": "Riproduzione delle piante",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.41.00",
+    "description": "Allevamento di bovini e bufale da latte, produzione di latte crudo",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.42.00",
+    "description": "Allevamento di bovini e bufalini da carne",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.43.00",
+    "description": "Allevamento di cavalli e altri equini",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.44.00",
+    "description": "Allevamento di cammelli e camelidi",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.45.00",
+    "description": "Allevamento di ovini e caprini",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.46.00",
+    "description": "Allevamento di suini",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.47.00",
+    "description": "Allevamento di pollame",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.49.10",
+    "description": "Allevamento di conigli",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.49.20",
+    "description": "Allevamento di animali da pelliccia",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.49.30",
+    "description": "Apicoltura",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.49.40",
+    "description": "Bachicoltura",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.49.90",
+    "description": "Allevamento di altri animali nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.50.00",
+    "description": "Coltivazioni agricole associate all'allevamento di animali: attività mista",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.61.00",
+    "description": "Attività di supporto alla produzione vegetale",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.62.01",
+    "description": "Attività dei maniscalchi",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.62.09",
+    "description": "Altre attività di supporto alla produzione animale (esclusi i servizi veterinari)",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.63.00",
+    "description": "Attività che seguono la raccolta",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.64.01",
+    "description": "Pulitura e cernita di semi e granaglie",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.64.09",
+    "description": "Altre lavorazioni delle sementi per la semina",
+    "percentage": "67%"
+  },
+  {
+    "code": "01.70.00",
+    "description": "Caccia, cattura di animali e servizi connessi",
+    "percentage": "67%"
+  },
+  {
+    "code": "02.10.00",
+    "description": "Silvicoltura e altre attività forestali",
+    "percentage": "67%"
+  },
+  {
+    "code": "02.20.00",
+    "description": "Utilizzo di aree forestali",
+    "percentage": "67%"
+  },
+  {
+    "code": "02.30.00",
+    "description": "Raccolta di prodotti selvatici non legnosi",
+    "percentage": "67%"
+  },
+  {
+    "code": "02.40.00",
+    "description": "Servizi di supporto per la silvicoltura",
+    "percentage": "67%"
+  },
+  {
+    "code": "03.11.00",
+    "description": "Pesca in acque marine e lagunari e servizi connessi",
+    "percentage": "67%"
+  },
+  {
+    "code": "03.12.00",
+    "description": "Pesca in acque dolci e servizi connessi",
+    "percentage": "67%"
+  },
+  {
+    "code": "03.21.00",
+    "description": "Acquacoltura in acqua di mare, salmastra o lagunare e servizi connessi",
+    "percentage": "67%"
+  },
+  {
+    "code": "03.22.00",
+    "description": "Acquacoltura in acque dolci e servizi connessi",
+    "percentage": "67%"
+  },
+  {
+    "code": "05.10.00",
+    "description": "Estrazione di antracite e litantrace",
+    "percentage": "67%"
+  },
+  {
+    "code": "05.20.00",
+    "description": "Estrazione di lignite",
+    "percentage": "67%"
+  },
+  {
+    "code": "06.10.00",
+    "description": "Estrazione di petrolio greggio",
+    "percentage": "67%"
+  },
+  {
+    "code": "06.20.00",
+    "description": "Estrazione di gas naturale",
+    "percentage": "67%"
+  },
+  {
+    "code": "07.10.00",
+    "description": "Estrazione di minerali metalliferi ferrosi",
+    "percentage": "67%"
+  },
+  {
+    "code": "07.21.00",
+    "description": "Estrazione di minerali di uranio e di torio",
+    "percentage": "67%"
+  },
+  {
+    "code": "07.29.00",
+    "description": "Estrazione di altri minerali metalliferi non ferrosi",
+    "percentage": "67%"
+  },
+  {
+    "code": "08.11.00",
+    "description": "Estrazione di pietre ornamentali e da costruzione, calcare, pietra da gesso, creta e ardesia",
+    "percentage": "67%"
+  },
+  {
+    "code": "08.12.00",
+    "description": "Estrazione di ghiaia, sabbia; estrazione di argille e caolino",
+    "percentage": "67%"
+  },
+  {
+    "code": "08.91.00",
+    "description": "Estrazione di minerali per l'industria chimica e per la produzione di fertilizzanti",
+    "percentage": "67%"
+  },
+  {
+    "code": "08.92.00",
+    "description": "Estrazione di torba",
+    "percentage": "67%"
+  },
+  {
+    "code": "08.93.00",
+    "description": "Estrazione di sale",
+    "percentage": "67%"
+  },
+  {
+    "code": "08.99.01",
+    "description": "Estrazione di asfalto e bitume naturale",
+    "percentage": "67%"
+  },
+  {
+    "code": "08.99.09",
+    "description": "Estrazione di pomice e di altri minerali nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "09.10.00",
+    "description": "Attività di supporto all'estrazione di petrolio e di gas naturale",
+    "percentage": "67%"
+  },
+  {
+    "code": "09.90.01",
+    "description": "Attività di supporto all'estrazione di pietre ornamentali, da costruzione, da gesso, di anidrite, per calce e cementi, di dolomite, di ardesia, di ghiaia e sabbia, di argilla, di caolino, di pomice",
+    "percentage": "67%"
+  },
+  {
+    "code": "09.90.09",
+    "description": "Attività di supporto all'estrazione di altri minerali nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "10.11.00",
+    "description": "Produzione di carne non di volatili e di prodotti della macellazione (attività dei mattatoi)",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.12.00",
+    "description": "Produzione di carne di volatili e prodotti della loro macellazione (attività dei mattatoi)",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.13.00",
+    "description": "Produzione di prodotti a base di carne (inclusa la carne di volatili)",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.20.00",
+    "description": "Lavorazione e conservazione di pesce, crostacei e molluschi mediante surgelamento, salatura eccetera",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.31.00",
+    "description": "Lavorazione e conservazione delle patate",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.32.00",
+    "description": "Produzione di succhi di frutta e di ortaggi",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.39.00",
+    "description": "Lavorazione e conservazione di frutta e di ortaggi (esclusi i succhi di frutta e di ortaggi)",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.41.10",
+    "description": "Produzione di olio di oliva da olive prevalentemente non di produzione propria",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.41.20",
+    "description": "Produzione di olio raffinato o grezzo da semi oleosi o frutti oleosi prevalentemente non di produzione propria",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.41.30",
+    "description": "Produzione di oli e grassi animali grezzi o raffinati",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.42.00",
+    "description": "Produzione di margarina e di grassi commestibili simili",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.51.10",
+    "description": "Trattamento igienico del latte",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.51.20",
+    "description": "Produzione dei derivati del latte",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.52.00",
+    "description": "Produzione di gelati senza vendita diretta al pubblico",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.61.10",
+    "description": "Molitura del frumento",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.61.20",
+    "description": "Molitura di altri cereali",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.61.30",
+    "description": "Lavorazione del riso",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.61.40",
+    "description": "Altre lavorazioni di semi e granaglie",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.62.00",
+    "description": "Produzione di amidi e di prodotti amidacei (inclusa produzione di olio di mais)",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.71.10",
+    "description": "Produzione di prodotti di panetteria freschi",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.71.20",
+    "description": "Produzione di pasticceria fresca",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.72.00",
+    "description": "Produzione di fette biscottate, biscotti; prodotti di pasticceria conservati",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.73.00",
+    "description": "Produzione di paste alimentari, di cuscus e di prodotti farinacei simili",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.81.00",
+    "description": "Produzione di zucchero",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.82.00",
+    "description": "Produzione di cacao in polvere, cioccolato, caramelle e confetterie",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.83.01",
+    "description": "Lavorazione del caffè",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.83.02",
+    "description": "Lavorazione del tè e di altri preparati per infusi",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.84.00",
+    "description": "Produzione di condimenti e spezie",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.85.01",
+    "description": "Produzione di piatti pronti a base di carne e pollame",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.85.02",
+    "description": "Produzione di piatti pronti a base di pesce, inclusi fish and chips",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.85.03",
+    "description": "Produzione di piatti pronti a base di ortaggi",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.85.04",
+    "description": "Produzione di pizza confezionata",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.85.05",
+    "description": "Produzione di piatti pronti a base di pasta",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.85.09",
+    "description": "Produzione di pasti e piatti pronti di altri prodotti alimentari",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.86.00",
+    "description": "Produzione di preparati omogeneizzati e di alimenti dietetici",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.89.01",
+    "description": "Produzione di estratti e succhi di carne",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.89.09",
+    "description": "Produzione di altri prodotti alimentari nca",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.91.00",
+    "description": "Produzione di mangimi per l'alimentazione degli animali da allevamento",
+    "percentage": "40%"
+  },
+  {
+    "code": "10.92.00",
+    "description": "Produzione di prodotti per l'alimentazione degli animali da compagnia",
+    "percentage": "40%"
+  },
+  {
+    "code": "11.01.00",
+    "description": "Distillazione, rettifica e miscelatura degli alcolici",
+    "percentage": "40%"
+  },
+  {
+    "code": "11.02.10",
+    "description": "Produzione di vini da tavola e v.q.p.r.d.",
+    "percentage": "40%"
+  },
+  {
+    "code": "11.02.20",
+    "description": "Produzione di vino spumante e altri vini speciali",
+    "percentage": "40%"
+  },
+  {
+    "code": "11.03.00",
+    "description": "Produzione di sidro e di altri vini a base di frutta",
+    "percentage": "40%"
+  },
+  {
+    "code": "11.04.00",
+    "description": "Produzione di altre bevande fermentate non distillate",
+    "percentage": "40%"
+  },
+  {
+    "code": "11.05.00",
+    "description": "Produzione di birra",
+    "percentage": "40%"
+  },
+  {
+    "code": "11.06.00",
+    "description": "Produzione di malto",
+    "percentage": "40%"
+  },
+  {
+    "code": "11.07.00",
+    "description": "Industria delle bibite analcoliche, delle acque minerali e di altre acque in bottiglia",
+    "percentage": "40%"
+  },
+  {
+    "code": "12.00.00",
+    "description": "Industria del tabacco",
+    "percentage": "67%"
+  },
+  {
+    "code": "13.10.00",
+    "description": "Preparazione e filatura di fibre tessili",
+    "percentage": "67%"
+  },
+  {
+    "code": "13.20.00",
+    "description": "Tessitura",
+    "percentage": "67%"
+  },
+  {
+    "code": "13.30.00",
+    "description": "Finissaggio dei tessili, degli articoli di vestiario e attività similari",
+    "percentage": "67%"
+  },
+  {
+    "code": "13.91.00",
+    "description": "Fabbricazione di tessuti a maglia",
+    "percentage": "67%"
+  },
+  {
+    "code": "13.92.10",
+    "description": "Confezionamento di biancheria da letto, da tavola e per l'arredamento",
+    "percentage": "67%"
+  },
+  {
+    "code": "13.92.20",
+    "description": "Fabbricazione di articoli in materie tessili nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "13.93.00",
+    "description": "Fabbricazione di tappeti e moquette",
+    "percentage": "67%"
+  },
+  {
+    "code": "13.94.00",
+    "description": "Fabbricazione di spago, corde, funi e reti",
+    "percentage": "67%"
+  },
+  {
+    "code": "13.95.00",
+    "description": "Fabbricazione di tessuti non tessuti e di articoli in tali materie (esclusi gli articoli di abbigliamento)",
+    "percentage": "67%"
+  },
+  {
+    "code": "13.96.10",
+    "description": "Fabbricazione di nastri, etichette e passamanerie di fibre tessili",
+    "percentage": "67%"
+  },
+  {
+    "code": "13.96.20",
+    "description": "Fabbricazione di altri articoli tessili tecnici ed industriali",
+    "percentage": "67%"
+  },
+  {
+    "code": "13.99.10",
+    "description": "Fabbricazione di ricami",
+    "percentage": "67%"
+  },
+  {
+    "code": "13.99.20",
+    "description": "Fabbricazione di tulle, pizzi e merletti",
+    "percentage": "67%"
+  },
+  {
+    "code": "13.99.90",
+    "description": "Fabbricazione di feltro e articoli tessili diversi",
+    "percentage": "67%"
+  },
+  {
+    "code": "14.11.00",
+    "description": "Confezione di abbigliamento in pelle e similpelle",
+    "percentage": "67%"
+  },
+  {
+    "code": "14.12.00",
+    "description": "Confezione di camici, divise ed altri indumenti da lavoro",
+    "percentage": "67%"
+  },
+  {
+    "code": "14.13.10",
+    "description": "Confezione in serie di abbigliamento esterno",
+    "percentage": "67%"
+  },
+  {
+    "code": "14.13.20",
+    "description": "Sartoria e confezione su misura di abbigliamento esterno",
+    "percentage": "67%"
+  },
+  {
+    "code": "14.14.00",
+    "description": "Confezione di camicie, T-shirt, corsetteria e altra biancheria intima",
+    "percentage": "67%"
+  },
+  {
+    "code": "14.19.10",
+    "description": "Confezioni varie e accessori per l'abbigliamento",
+    "percentage": "67%"
+  },
+  {
+    "code": "14.19.21",
+    "description": "Fabbricazione di calzature realizzate in materiale tessile senza suole applicate",
+    "percentage": "67%"
+  },
+  {
+    "code": "14.19.29",
+    "description": "Confezioni di abbigliamento sportivo o di altri indumenti particolari",
+    "percentage": "67%"
+  },
+  {
+    "code": "14.20.00",
+    "description": "Confezione di articoli in pelliccia",
+    "percentage": "67%"
+  },
+  {
+    "code": "14.31.00",
+    "description": "Fabbricazione di articoli di calzetteria in maglia",
+    "percentage": "67%"
+  },
+  {
+    "code": "14.39.00",
+    "description": "Fabbricazione di pullover, cardigan ed altri articoli simili a maglia",
+    "percentage": "67%"
+  },
+  {
+    "code": "15.11.00",
+    "description": "Preparazione e concia del cuoio e pelle; preparazione e tintura di pellicce",
+    "percentage": "67%"
+  },
+  {
+    "code": "15.12.01",
+    "description": "Fabbricazione di frustini e scudisci per equitazione",
+    "percentage": "67%"
+  },
+  {
+    "code": "15.12.09",
+    "description": "Fabbricazione di altri articoli da viaggio, borse e simili, pelletteria e selleria",
+    "percentage": "67%"
+  },
+  {
+    "code": "15.20.10",
+    "description": "Fabbricazione di calzature",
+    "percentage": "67%"
+  },
+  {
+    "code": "15.20.20",
+    "description": "Fabbricazione di parti in cuoio per calzature",
+    "percentage": "67%"
+  },
+  {
+    "code": "16.10.00",
+    "description": "Taglio e piallatura del legno",
+    "percentage": "67%"
+  },
+  {
+    "code": "16.21.00",
+    "description": "Fabbricazione di fogli da impiallacciatura e di pannelli a base di legno",
+    "percentage": "67%"
+  },
+  {
+    "code": "16.22.00",
+    "description": "Fabbricazione di pavimenti in parquet assemblato",
+    "percentage": "67%"
+  },
+  {
+    "code": "16.23.10",
+    "description": "Fabbricazione di porte e finestre in legno (escluse porte blindate)",
+    "percentage": "67%"
+  },
+  {
+    "code": "16.23.20",
+    "description": "Fabbricazione di altri elementi in legno e di falegnameria per l'edilizia",
+    "percentage": "67%"
+  },
+  {
+    "code": "16.24.00",
+    "description": "Fabbricazione di imballaggi in legno",
+    "percentage": "67%"
+  },
+  {
+    "code": "16.29.11",
+    "description": "Fabbricazione di parti in legno per calzature",
+    "percentage": "67%"
+  },
+  {
+    "code": "16.29.12",
+    "description": "Fabbricazione di manici di ombrelli, bastoni e simili",
+    "percentage": "67%"
+  },
+  {
+    "code": "16.29.19",
+    "description": "Fabbricazione di altri prodotti vari in legno (esclusi i mobili)",
+    "percentage": "67%"
+  },
+  {
+    "code": "16.29.20",
+    "description": "Fabbricazione dei prodotti della lavorazione del sughero",
+    "percentage": "67%"
+  },
+  {
+    "code": "16.29.30",
+    "description": "Fabbricazione di articoli in paglia e materiali da intreccio",
+    "percentage": "67%"
+  },
+  {
+    "code": "16.29.40",
+    "description": "Laboratori di corniciai",
+    "percentage": "67%"
+  },
+  {
+    "code": "17.11.00",
+    "description": "Fabbricazione di pasta-carta",
+    "percentage": "67%"
+  },
+  {
+    "code": "17.12.00",
+    "description": "Fabbricazione di carta e cartone",
+    "percentage": "67%"
+  },
+  {
+    "code": "17.21.00",
+    "description": "Fabbricazione di carta e cartone ondulato e di imballaggi di carta e cartone (esclusi quelli in carta pressata)",
+    "percentage": "67%"
+  },
+  {
+    "code": "17.22.00",
+    "description": "Fabbricazione di prodotti igienico-sanitari e per uso domestico in carta e ovatta di cellulosa",
+    "percentage": "67%"
+  },
+  {
+    "code": "17.23.01",
+    "description": "Fabbricazione di prodotti cartotecnici scolastici e commerciali quando l'attività di stampa non è la principale caratteristica",
+    "percentage": "67%"
+  },
+  {
+    "code": "17.23.09",
+    "description": "Fabbricazione di altri prodotti cartotecnici",
+    "percentage": "67%"
+  },
+  {
+    "code": "17.24.00",
+    "description": "Fabbricazione di carta da parati",
+    "percentage": "67%"
+  },
+  {
+    "code": "17.29.00",
+    "description": "Fabbricazione di altri articoli di carta e cartone",
+    "percentage": "67%"
+  },
+  {
+    "code": "18.11.00",
+    "description": "Stampa di giornali",
+    "percentage": "67%"
+  },
+  {
+    "code": "18.12.00",
+    "description": "Altra stampa",
+    "percentage": "67%"
+  },
+  {
+    "code": "18.13.00",
+    "description": "Lavorazioni preliminari alla stampa e ai media",
+    "percentage": "67%"
+  },
+  {
+    "code": "18.14.00",
+    "description": "Legatoria e servizi connessi",
+    "percentage": "67%"
+  },
+  {
+    "code": "18.20.00",
+    "description": "Riproduzione di supporti registrati",
+    "percentage": "67%"
+  },
+  {
+    "code": "19.10.01",
+    "description": "Fabbricazione di pece e coke di pece",
+    "percentage": "67%"
+  },
+  {
+    "code": "19.10.09",
+    "description": "Fabbricazione di altri prodotti di cokeria",
+    "percentage": "67%"
+  },
+  {
+    "code": "19.20.10",
+    "description": "Raffinerie di petrolio",
+    "percentage": "67%"
+  },
+  {
+    "code": "19.20.20",
+    "description": "Preparazione o miscelazione di derivati del petrolio (esclusa la petrolchimica)",
+    "percentage": "67%"
+  },
+  {
+    "code": "19.20.30",
+    "description": "Miscelazione di gas petroliferi liquefatti (GPL) e loro imbottigliamento",
+    "percentage": "67%"
+  },
+  {
+    "code": "19.20.40",
+    "description": "Fabbricazione di emulsioni di bitume, di catrame e di leganti per uso stradale",
+    "percentage": "67%"
+  },
+  {
+    "code": "19.20.90",
+    "description": "Fabbricazione di altri prodotti petroliferi raffinati",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.11.00",
+    "description": "Fabbricazione di gas industriali",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.12.00",
+    "description": "Fabbricazione di coloranti e pigmenti",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.13.01",
+    "description": "Fabbricazione di uranio e torio arricchito",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.13.09",
+    "description": "Fabbricazione di altri prodotti chimici di base inorganici",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.14.01",
+    "description": "Fabbricazione di alcol etilico da materiali fermentati",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.14.09",
+    "description": "Fabbricazione di altri prodotti chimici di base organici nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.15.00",
+    "description": "Fabbricazione di fertilizzanti e composti azotati (esclusa la fabbricazione di compost)",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.16.00",
+    "description": "Fabbricazione di materie plastiche in forme primarie",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.17.00",
+    "description": "Fabbricazione di gomma sintetica in forme primarie",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.20.00",
+    "description": "Fabbricazione di agrofarmaci e di altri prodotti chimici per l'agricoltura (esclusi i concimi)",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.30.00",
+    "description": "Fabbricazione di pitture, vernici e smalti, inchiostri da stampa e adesivi sintetici (mastici)",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.41.10",
+    "description": "Fabbricazione di saponi, detergenti e di agenti organici tensioattivi (esclusi i prodotti per toletta)",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.41.20",
+    "description": "Fabbricazione di specialità chimiche per uso domestico e per manutenzione",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.42.00",
+    "description": "Fabbricazione di prodotti per toletta: profumi, cosmetici, saponi e simili",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.51.01",
+    "description": "Fabbricazione di fiammiferi",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.51.02",
+    "description": "Fabbricazione di articoli esplosivi",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.52.00",
+    "description": "Fabbricazione di colle",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.53.00",
+    "description": "Fabbricazione di oli essenziali",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.59.10",
+    "description": "Fabbricazione di prodotti chimici per uso fotografico",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.59.20",
+    "description": "Fabbricazione di prodotti chimici organici ottenuti da prodotti di base derivati da processi di fermentazione o da materie prime vegetali",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.59.30",
+    "description": "Trattamento chimico degli acidi grassi",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.59.40",
+    "description": "Fabbricazione di prodotti chimici vari per uso industriale (inclusi i preparati antidetonanti e antigelo)",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.59.50",
+    "description": "Fabbricazione di prodotti chimici impiegati per ufficio e per il consumo non industriale",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.59.60",
+    "description": "Fabbricazione di prodotti ausiliari per le industrie tessili e del cuoio",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.59.70",
+    "description": "Fabbricazione di prodotti elettrochimici (esclusa produzione di cloro, soda e potassa) ed elettrotermici",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.59.90",
+    "description": "Fabbricazione di altri prodotti chimici nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "20.60.00",
+    "description": "Fabbricazione di fibre sintetiche e artificiali",
+    "percentage": "67%"
+  },
+  {
+    "code": "21.10.00",
+    "description": "Fabbricazione di prodotti farmaceutici di base",
+    "percentage": "67%"
+  },
+  {
+    "code": "21.20.01",
+    "description": "Fabbricazione di sostanze diagnostiche radioattive in vivo",
+    "percentage": "67%"
+  },
+  {
+    "code": "21.20.09",
+    "description": "Fabbricazione di medicinali ed altri preparati farmaceutici",
+    "percentage": "67%"
+  },
+  {
+    "code": "22.11.10",
+    "description": "Fabbricazione di pneumatici e di camere d'aria",
+    "percentage": "67%"
+  },
+  {
+    "code": "22.11.20",
+    "description": "Rigenerazione e ricostruzione di pneumatici",
+    "percentage": "67%"
+  },
+  {
+    "code": "22.19.01",
+    "description": "Fabbricazione di suole di gomma e altre parti in gomma per calzature",
+    "percentage": "67%"
+  },
+  {
+    "code": "22.19.09",
+    "description": "Fabbricazione di altri prodotti in gomma nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "22.21.00",
+    "description": "Fabbricazione di lastre, fogli, tubi e profilati in materie plastiche",
+    "percentage": "67%"
+  },
+  {
+    "code": "22.22.00",
+    "description": "Fabbricazione di imballaggi in materie plastiche",
+    "percentage": "67%"
+  },
+  {
+    "code": "22.23.01",
+    "description": "Fabbricazione di rivestimenti elastici per pavimenti (vinile, linoleum eccetera)",
+    "percentage": "67%"
+  },
+  {
+    "code": "22.23.02",
+    "description": "Fabbricazione di porte, finestre, intelaiature eccetera in plastica per l'edilizia",
+    "percentage": "67%"
+  },
+  {
+    "code": "22.23.09",
+    "description": "Fabbricazione di altri articoli in plastica per l'edilizia",
+    "percentage": "67%"
+  },
+  {
+    "code": "22.29.01",
+    "description": "Fabbricazione di parti in plastica per calzature",
+    "percentage": "67%"
+  },
+  {
+    "code": "22.29.02",
+    "description": "Fabbricazione di oggetti per l'ufficio e la scuola in plastica",
+    "percentage": "67%"
+  },
+  {
+    "code": "22.29.09",
+    "description": "Fabbricazione di altri articoli in materie plastiche nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.11.00",
+    "description": "Fabbricazione di vetro piano",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.12.00",
+    "description": "Lavorazione e trasformazione del vetro piano",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.13.00",
+    "description": "Fabbricazione di vetro cavo",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.14.00",
+    "description": "Fabbricazione di fibre di vetro",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.19.10",
+    "description": "Fabbricazione di vetrerie per laboratori, per uso igienico, per farmacia",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.19.20",
+    "description": "Lavorazione di vetro a mano e a soffio artistico",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.19.90",
+    "description": "Fabbricazione di altri prodotti in vetro (inclusa la vetreria tecnica)",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.20.00",
+    "description": "Fabbricazione di prodotti refrattari",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.31.00",
+    "description": "Fabbricazione di piastrelle in ceramica per pavimenti e rivestimenti",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.32.00",
+    "description": "Fabbricazione di mattoni, tegole ed altri prodotti per l'edilizia in terracotta",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.41.00",
+    "description": "Fabbricazione di prodotti in ceramica per usi domestici e ornamentali",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.42.00",
+    "description": "Fabbricazione di articoli sanitari in ceramica",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.43.00",
+    "description": "Fabbricazione di isolatori e di pezzi isolanti in ceramica",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.44.00",
+    "description": "Fabbricazione di altri prodotti in ceramica per uso tecnico e industriale",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.49.00",
+    "description": "Fabbricazione di altri prodotti in ceramica",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.51.00",
+    "description": "Produzione di cemento",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.52.10",
+    "description": "Produzione di calce",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.52.20",
+    "description": "Produzione di gesso",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.61.00",
+    "description": "Fabbricazione di prodotti in calcestruzzo per l'edilizia",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.62.00",
+    "description": "Fabbricazione di prodotti in gesso per l'edilizia",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.63.00",
+    "description": "Produzione di calcestruzzo pronto per l'uso",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.64.00",
+    "description": "Produzione di malta",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.65.00",
+    "description": "Fabbricazione di prodotti in fibrocemento",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.69.00",
+    "description": "Fabbricazione di altri prodotti in calcestruzzo, gesso e cemento",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.70.10",
+    "description": "Segagione e lavorazione delle pietre e del marmo",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.70.20",
+    "description": "Lavorazione artistica del marmo e di altre pietre affini, lavori in mosaico",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.70.30",
+    "description": "Frantumazione di pietre e minerali vari non in connessione con l'estrazione",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.91.00",
+    "description": "Produzione di prodotti abrasivi",
+    "percentage": "67%"
+  },
+  {
+    "code": "23.99.00",
+    "description": "Fabbricazione di altri prodotti in minerali non metalliferi nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "24.10.00",
+    "description": "Siderurgia - Fabbricazione di ferro, acciaio e ferroleghe",
+    "percentage": "67%"
+  },
+  {
+    "code": "24.20.10",
+    "description": "Fabbricazione di tubi e condotti senza saldatura",
+    "percentage": "67%"
+  },
+  {
+    "code": "24.20.20",
+    "description": "Fabbricazione di tubi e condotti saldati e simili",
+    "percentage": "67%"
+  },
+  {
+    "code": "24.31.00",
+    "description": "Stiratura a freddo di barre",
+    "percentage": "67%"
+  },
+  {
+    "code": "24.32.00",
+    "description": "Laminazione a freddo di nastri",
+    "percentage": "67%"
+  },
+  {
+    "code": "24.33.01",
+    "description": "Fabbricazione di pannelli stratificati in acciaio",
+    "percentage": "67%"
+  },
+  {
+    "code": "24.33.02",
+    "description": "Profilatura mediante formatura o piegatura a freddo",
+    "percentage": "67%"
+  },
+  {
+    "code": "24.34.00",
+    "description": "Trafilatura a freddo",
+    "percentage": "67%"
+  },
+  {
+    "code": "24.41.00",
+    "description": "Produzione di metalli preziosi e semilavorati",
+    "percentage": "67%"
+  },
+  {
+    "code": "24.42.00",
+    "description": "Produzione di alluminio e semilavorati",
+    "percentage": "67%"
+  },
+  {
+    "code": "24.43.00",
+    "description": "Produzione di piombo, zinco e stagno e semilavorati",
+    "percentage": "67%"
+  },
+  {
+    "code": "24.44.00",
+    "description": "Produzione di rame e semilavorati",
+    "percentage": "67%"
+  },
+  {
+    "code": "24.45.00",
+    "description": "Produzione di altri metalli non ferrosi e semilavorati",
+    "percentage": "67%"
+  },
+  {
+    "code": "24.46.00",
+    "description": "Trattamento dei combustibili nucleari (escluso l'arricchimento di uranio e torio)",
+    "percentage": "67%"
+  },
+  {
+    "code": "24.51.00",
+    "description": "Fusione di ghisa e produzione di tubi e raccordi in ghisa",
+    "percentage": "67%"
+  },
+  {
+    "code": "24.52.00",
+    "description": "Fusione di acciaio",
+    "percentage": "67%"
+  },
+  {
+    "code": "24.53.00",
+    "description": "Fusione di metalli leggeri",
+    "percentage": "67%"
+  },
+  {
+    "code": "24.54.00",
+    "description": "Fusione di altri metalli non ferrosi",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.11.00",
+    "description": "Fabbricazione di strutture metalliche e parti assemblate di strutture",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.12.10",
+    "description": "Fabbricazione di porte, finestre e loro telai, imposte e cancelli metallici",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.12.20",
+    "description": "Fabbricazione di strutture metalliche per tende da sole, tende alla veneziana e simili",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.21.00",
+    "description": "Fabbricazione di radiatori e contenitori in metallo per caldaie per il riscaldamento centrale",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.29.00",
+    "description": "Fabbricazione di cisterne, serbatoi e contenitori in metallo per impieghi di stoccaggio o di produzione",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.30.00",
+    "description": "Fabbricazione di generatori di vapore (esclusi i contenitori in metallo per caldaie per il riscaldamento centrale ad acqua calda)",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.40.00",
+    "description": "Fabbricazione di armi e munizioni",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.50.00",
+    "description": "Fucinatura, imbutitura, stampaggio e profilatura dei metalli; metallurgia delle polveri",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.61.00",
+    "description": "Trattamento e rivestimento dei metalli",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.62.00",
+    "description": "Lavori di meccanica generale",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.71.00",
+    "description": "Fabbricazione di articoli di coltelleria, posateria ed armi bianche",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.72.00",
+    "description": "Fabbricazione di serrature e cerniere e ferramenta simili",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.73.11",
+    "description": "Fabbricazione di utensileria ad azionamento manuale",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.73.12",
+    "description": "Fabbricazione di parti intercambiabili per macchine utensili",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.73.20",
+    "description": "Fabbricazione di stampi, portastampi, sagome, forme per macchine",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.91.00",
+    "description": "Fabbricazione di bidoni in acciaio e contenitori analoghi per il trasporto e l'imballaggio",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.92.00",
+    "description": "Fabbricazione di imballaggi leggeri in metallo",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.93.10",
+    "description": "Fabbricazione di prodotti fabbricati con fili metallici",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.93.20",
+    "description": "Fabbricazione di molle",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.93.30",
+    "description": "Fabbricazione di catene fucinate senza saldatura e stampate",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.94.00",
+    "description": "Fabbricazione di articoli di bulloneria",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.99.11",
+    "description": "Fabbricazione di caraffe e bottiglie isolate in metallo",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.99.19",
+    "description": "Fabbricazione di stoviglie, pentolame, vasellame, attrezzi da cucina e altri accessori casalinghi non elettrici, articoli metallici per l'arredamento di stanze da bagno",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.99.20",
+    "description": "Fabbricazione di casseforti, forzieri e porte metalliche blindate",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.99.30",
+    "description": "Fabbricazione di oggetti in ferro, in rame ed altri metalli",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.99.91",
+    "description": "Fabbricazione di magneti metallici permanenti",
+    "percentage": "67%"
+  },
+  {
+    "code": "25.99.99",
+    "description": "Fabbricazione di altri articoli metallici e minuteria metallica nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "26.11.01",
+    "description": "Fabbricazione di diodi, transistor e relativi congegni elettronici",
+    "percentage": "67%"
+  },
+  {
+    "code": "26.11.09",
+    "description": "Fabbricazione di altri componenti elettronici",
+    "percentage": "67%"
+  },
+  {
+    "code": "26.12.00",
+    "description": "Fabbricazione di schede elettroniche assemblate",
+    "percentage": "67%"
+  },
+  {
+    "code": "26.20.00",
+    "description": "Fabbricazione di computer e unità periferiche",
+    "percentage": "67%"
+  },
+  {
+    "code": "26.30.10",
+    "description": "Fabbricazione di apparecchi trasmittenti radiotelevisivi (incluse le telecamere)",
+    "percentage": "67%"
+  },
+  {
+    "code": "26.30.21",
+    "description": "Fabbricazione di sistemi antifurto e antincendio",
+    "percentage": "67%"
+  },
+  {
+    "code": "26.30.29",
+    "description": "Fabbricazione di altri apparecchi elettrici ed elettronici per telecomunicazioni",
+    "percentage": "67%"
+  },
+  {
+    "code": "26.40.01",
+    "description": "Fabbricazione di apparecchi per la riproduzione e registrazione del suono e delle immagini",
+    "percentage": "67%"
+  },
+  {
+    "code": "26.40.02",
+    "description": "Fabbricazione di console per videogiochi (esclusi i giochi elettronici)",
+    "percentage": "67%"
+  },
+  {
+    "code": "26.51.10",
+    "description": "Fabbricazione di strumenti per navigazione, idrologia, geofisica e meteorologia",
+    "percentage": "67%"
+  },
+  {
+    "code": "26.51.21",
+    "description": "Fabbricazione di rilevatori di fiamma e combustione, di mine, di movimento, generatori d'impulso e metal detector",
+    "percentage": "67%"
+  },
+  {
+    "code": "26.51.29",
+    "description": "Fabbricazione di altri apparecchi di misura e regolazione, strumenti da disegno, di contatori di elettricità, gas, acqua ed altri liquidi, di bilance analitiche di precisione (incluse parti staccate ed accessori)",
+    "percentage": "67%"
+  },
+  {
+    "code": "26.52.00",
+    "description": "Fabbricazione di orologi",
+    "percentage": "67%"
+  },
+  {
+    "code": "26.60.01",
+    "description": "Fabbricazione di apparecchiature di irradiazione per alimenti e latte",
+    "percentage": "67%"
+  },
+  {
+    "code": "26.60.02",
+    "description": "Fabbricazione di apparecchi elettromedicali (incluse parti staccate e accessori)",
+    "percentage": "67%"
+  },
+  {
+    "code": "26.60.09",
+    "description": "Fabbricazione di altri strumenti per irradiazione ed altre apparecchiature elettroterapeutiche",
+    "percentage": "67%"
+  },
+  {
+    "code": "26.70.11",
+    "description": "Fabbricazione di elementi ottici e strumenti ottici di precisione",
+    "percentage": "67%"
+  },
+  {
+    "code": "26.70.12",
+    "description": "Fabbricazione di attrezzature ottiche di misurazione e controllo",
+    "percentage": "67%"
+  },
+  {
+    "code": "26.70.20",
+    "description": "Fabbricazione di apparecchiature fotografiche e cinematografiche",
+    "percentage": "67%"
+  },
+  {
+    "code": "26.80.00",
+    "description": "Fabbricazione di supporti magnetici ed ottici",
+    "percentage": "67%"
+  },
+  {
+    "code": "27.11.00",
+    "description": "Fabbricazione di motori, generatori e trasformatori elettrici",
+    "percentage": "67%"
+  },
+  {
+    "code": "27.12.00",
+    "description": "Fabbricazione di apparecchiature per le reti di distribuzione e il controllo dell'elettricità",
+    "percentage": "67%"
+  },
+  {
+    "code": "27.20.00",
+    "description": "Fabbricazione di batterie di pile ed accumulatori elettrici",
+    "percentage": "67%"
+  },
+  {
+    "code": "27.31.01",
+    "description": "Fabbricazione di cavi a fibra ottica per la trasmissione di dati o di immagini",
+    "percentage": "67%"
+  },
+  {
+    "code": "27.31.02",
+    "description": "Fabbricazione di fibre ottiche",
+    "percentage": "67%"
+  },
+  {
+    "code": "27.32.00",
+    "description": "Fabbricazione di altri fili e cavi elettrici ed elettronici",
+    "percentage": "67%"
+  },
+  {
+    "code": "27.33.01",
+    "description": "Fabbricazione di apparecchiature in plastica non conduttiva",
+    "percentage": "67%"
+  },
+  {
+    "code": "27.33.09",
+    "description": "Fabbricazione di altre attrezzature per cablaggio",
+    "percentage": "67%"
+  },
+  {
+    "code": "27.40.01",
+    "description": "Fabbricazione di apparecchiature di illuminazione e segnalazione per mezzi di trasporto",
+    "percentage": "67%"
+  },
+  {
+    "code": "27.40.09",
+    "description": "Fabbricazione di altre apparecchiature per illuminazione",
+    "percentage": "67%"
+  },
+  {
+    "code": "27.51.00",
+    "description": "Fabbricazione di elettrodomestici",
+    "percentage": "67%"
+  },
+  {
+    "code": "27.52.00",
+    "description": "Fabbricazione di apparecchi per uso domestico non elettrici",
+    "percentage": "67%"
+  },
+  {
+    "code": "27.90.01",
+    "description": "Fabbricazione di apparecchiature elettriche per saldature e brasature",
+    "percentage": "67%"
+  },
+  {
+    "code": "27.90.02",
+    "description": "Fabbricazione di insegne elettriche e apparecchiature elettriche di segnalazione",
+    "percentage": "67%"
+  },
+  {
+    "code": "27.90.03",
+    "description": "Fabbricazione di capacitori elettrici, resistenze, condensatori e simili, acceleratori",
+    "percentage": "67%"
+  },
+  {
+    "code": "27.90.09",
+    "description": "Fabbricazione di altre apparecchiature elettriche nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.11.11",
+    "description": "Fabbricazione di motori a combustione interna (esclusi i motori destinati ai mezzi di trasporto su strada e ad aeromobili)",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.11.12",
+    "description": "Fabbricazione di pistoni, fasce elastiche, carburatori e parti simili di motori a combustione interna",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.11.20",
+    "description": "Fabbricazione di turbine e turboalternatori (incluse parti e accessori)",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.12.00",
+    "description": "Fabbricazione di apparecchiature fluidodinamiche",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.13.00",
+    "description": "Fabbricazione di altre pompe e compressori",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.14.00",
+    "description": "Fabbricazione di altri rubinetti e valvole",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.15.10",
+    "description": "Fabbricazione di organi di trasmissione (esclusi quelli idraulici e quelli per autoveicoli, aeromobili e motocicli)",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.15.20",
+    "description": "Fabbricazione di cuscinetti a sfere",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.21.10",
+    "description": "Fabbricazione di forni, fornaci e bruciatori",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.21.21",
+    "description": "Fabbricazione di caldaie per riscaldamento",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.21.29",
+    "description": "Fabbricazione di altri sistemi per riscaldamento",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.22.01",
+    "description": "Fabbricazione di ascensori, montacarichi e scale mobili",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.22.02",
+    "description": "Fabbricazione di gru, argani, verricelli a mano e a motore, carrelli trasbordatori, carrelli elevatori e piattaforme girevoli",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.22.03",
+    "description": "Fabbricazione di carriole",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.22.09",
+    "description": "Fabbricazione di altre macchine e apparecchi di sollevamento e movimentazione",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.23.01",
+    "description": "Fabbricazione di cartucce toner",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.23.09",
+    "description": "Fabbricazione di macchine ed altre attrezzature per ufficio (esclusi computer e periferiche)",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.24.00",
+    "description": "Fabbricazione di utensili portatili a motore",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.25.00",
+    "description": "Fabbricazione di attrezzature di uso non domestico per la refrigerazione e la ventilazione; fabbricazione di condizionatori domestici fissi",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.29.10",
+    "description": "Fabbricazione di bilance e di macchine automatiche per la vendita e la distribuzione (incluse parti staccate e accessori)",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.29.20",
+    "description": "Fabbricazione di macchine e apparecchi per le industrie chimiche, petrolchimiche e petrolifere (incluse parti e accessori)",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.29.30",
+    "description": "Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.29.91",
+    "description": "Fabbricazione di apparecchi per depurare e filtrare liquidi e gas per uso non domestico",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.29.92",
+    "description": "Fabbricazione di macchine per la pulizia (incluse le lavastoviglie) per uso non domestico",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.29.93",
+    "description": "Fabbricazione di livelle, metri doppi a nastro e utensili simili, strumenti di precisione per meccanica (esclusi quelli ottici)",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.29.99",
+    "description": "Fabbricazione di altro materiale meccanico e di altre macchine di impiego generale nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.30.10",
+    "description": "Fabbricazione di trattori agricoli",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.30.90",
+    "description": "Fabbricazione di altre macchine per l'agricoltura, la silvicoltura e la zootecnia",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.41.00",
+    "description": "Fabbricazione di macchine utensili per la formatura dei metalli (incluse parti e accessori ed escluse le parti intercambiabili)",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.49.01",
+    "description": "Fabbricazione di macchine per la galvanostegia",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.49.09",
+    "description": "Fabbricazione di altre macchine utensili (incluse parti e accessori) nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.91.00",
+    "description": "Fabbricazione di macchine per la metallurgia (incluse parti e accessori)",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.92.01",
+    "description": "Fabbricazione di macchine per il trasporto a cassone ribaltabile per impiego specifico in miniere, cave e cantieri",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.92.09",
+    "description": "Fabbricazione di altre macchine da miniera, cava e cantiere (incluse parti e accessori)",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.93.00",
+    "description": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco (incluse parti e accessori)",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.94.10",
+    "description": "Fabbricazione di macchine tessili, di macchine e di impianti per il trattamento ausiliario dei tessili, di macchine per cucire e per maglieria (incluse parti e accessori)",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.94.20",
+    "description": "Fabbricazione di macchine e apparecchi per l'industria delle pelli, del cuoio e delle calzature (incluse parti e accessori)",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.94.30",
+    "description": "Fabbricazione di apparecchiature e di macchine per lavanderie e stirerie (incluse parti e accessori)",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.95.00",
+    "description": "Fabbricazione di macchine per l'industria della carta e del cartone (incluse parti e accessori)",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.96.00",
+    "description": "Fabbricazione di macchine per l'industria delle materie plastiche e della gomma (incluse parti e accessori)",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.99.10",
+    "description": "Fabbricazione di macchine per la stampa e la legatoria (incluse parti e accessori)",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.99.20",
+    "description": "Fabbricazione di robot industriali per usi molteplici (incluse parti e accessori)",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.99.30",
+    "description": "Fabbricazione di apparecchi per istituti di bellezza e centri di benessere",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.99.91",
+    "description": "Fabbricazione di apparecchiature per il lancio di aeromobili, catapulte per portaerei e apparecchiature simili",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.99.92",
+    "description": "Fabbricazione di giostre, altalene ed altre attrezzature per parchi di divertimento",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.99.93",
+    "description": "Fabbricazione di apparecchiature per l'allineamento e il bilanciamento delle ruote; altre apparecchiature per il bilanciamento",
+    "percentage": "67%"
+  },
+  {
+    "code": "28.99.99",
+    "description": "Fabbricazione di altre macchine ed attrezzature per impieghi speciali nca (incluse parti e accessori)",
+    "percentage": "67%"
+  },
+  {
+    "code": "29.10.00",
+    "description": "Fabbricazione di autoveicoli",
+    "percentage": "67%"
+  },
+  {
+    "code": "29.20.00",
+    "description": "Fabbricazione di carrozzerie per autoveicoli, rimorchi e semirimorchi",
+    "percentage": "67%"
+  },
+  {
+    "code": "29.31.00",
+    "description": "Fabbricazione di apparecchiature elettriche ed elettroniche per autoveicoli e loro motori",
+    "percentage": "67%"
+  },
+  {
+    "code": "29.32.01",
+    "description": "Fabbricazione di sedili per autoveicoli",
+    "percentage": "67%"
+  },
+  {
+    "code": "29.32.09",
+    "description": "Fabbricazione di altre parti ed accessori per autoveicoli e loro motori nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "30.11.01",
+    "description": "Fabbricazione di sedili per navi",
+    "percentage": "67%"
+  },
+  {
+    "code": "30.11.02",
+    "description": "Cantieri navali per costruzioni metalliche e non metalliche (esclusi i sedili per navi)",
+    "percentage": "67%"
+  },
+  {
+    "code": "30.12.00",
+    "description": "Costruzione di imbarcazioni da diporto e sportive",
+    "percentage": "67%"
+  },
+  {
+    "code": "30.20.01",
+    "description": "Fabbricazione di sedili per tram, filovie e metropolitane",
+    "percentage": "67%"
+  },
+  {
+    "code": "30.20.02",
+    "description": "Costruzione di altro materiale rotabile ferroviario, tranviario, filoviario, per metropolitane e per miniere",
+    "percentage": "67%"
+  },
+  {
+    "code": "30.30.01",
+    "description": "Fabbricazione di sedili per aeromobili",
+    "percentage": "67%"
+  },
+  {
+    "code": "30.30.02",
+    "description": "Fabbricazione di missili balistici",
+    "percentage": "67%"
+  },
+  {
+    "code": "30.30.09",
+    "description": "Fabbricazione di aeromobili, di veicoli spaziali e dei relativi dispositivi nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "30.40.00",
+    "description": "Fabbricazione di veicoli militari da combattimento",
+    "percentage": "67%"
+  },
+  {
+    "code": "30.91.11",
+    "description": "Fabbricazione di motori per motocicli",
+    "percentage": "67%"
+  },
+  {
+    "code": "30.91.12",
+    "description": "Fabbricazione di motocicli",
+    "percentage": "67%"
+  },
+  {
+    "code": "30.91.20",
+    "description": "Fabbricazione di accessori e pezzi staccati per motocicli e ciclomotori",
+    "percentage": "67%"
+  },
+  {
+    "code": "30.92.10",
+    "description": "Fabbricazione e montaggio di biciclette",
+    "percentage": "67%"
+  },
+  {
+    "code": "30.92.20",
+    "description": "Fabbricazione di parti ed accessori per biciclette",
+    "percentage": "67%"
+  },
+  {
+    "code": "30.92.30",
+    "description": "Fabbricazione di veicoli per invalidi (incluse parti e accessori)",
+    "percentage": "67%"
+  },
+  {
+    "code": "30.92.40",
+    "description": "Fabbricazione di carrozzine e passeggini per neonati",
+    "percentage": "67%"
+  },
+  {
+    "code": "30.99.00",
+    "description": "Fabbricazione di veicoli a trazione manuale o animale",
+    "percentage": "67%"
+  },
+  {
+    "code": "31.01.10",
+    "description": "Fabbricazione di sedie e poltrone per ufficio e negozi",
+    "percentage": "67%"
+  },
+  {
+    "code": "31.01.21",
+    "description": "Fabbricazione di altri mobili metallici per ufficio e negozi",
+    "percentage": "67%"
+  },
+  {
+    "code": "31.01.22",
+    "description": "Fabbricazione di altri mobili non metallici per ufficio e negozi",
+    "percentage": "67%"
+  },
+  {
+    "code": "31.02.00",
+    "description": "Fabbricazione di mobili per cucina",
+    "percentage": "67%"
+  },
+  {
+    "code": "31.03.00",
+    "description": "Fabbricazione di materassi",
+    "percentage": "67%"
+  },
+  {
+    "code": "31.09.10",
+    "description": "Fabbricazione di mobili per arredo domestico",
+    "percentage": "67%"
+  },
+  {
+    "code": "31.09.20",
+    "description": "Fabbricazione di sedie e sedili (esclusi quelli per aeromobili, autoveicoli, navi, treni, ufficio e negozi)",
+    "percentage": "67%"
+  },
+  {
+    "code": "31.09.30",
+    "description": "Fabbricazione di poltrone e divani",
+    "percentage": "67%"
+  },
+  {
+    "code": "31.09.40",
+    "description": "Fabbricazione di parti e accessori di mobili",
+    "percentage": "67%"
+  },
+  {
+    "code": "31.09.50",
+    "description": "Finitura di mobili",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.11.00",
+    "description": "Coniazione di monete",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.12.10",
+    "description": "Fabbricazione di oggetti di gioielleria ed oreficeria in metalli preziosi o rivestiti di metalli preziosi",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.12.20",
+    "description": "Lavorazione di pietre preziose e semipreziose per gioielleria e per uso industriale",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.13.01",
+    "description": "Fabbricazione di cinturini metallici per orologi (esclusi quelli in metalli preziosi)",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.13.09",
+    "description": "Fabbricazione di bigiotteria e articoli simili nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.20.00",
+    "description": "Fabbricazione di strumenti musicali (incluse parti e accessori)",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.30.00",
+    "description": "Fabbricazione di articoli sportivi",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.40.10",
+    "description": "Fabbricazione di giochi (inclusi i giochi elettronici)",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.40.20",
+    "description": "Fabbricazione di giocattoli (inclusi i tricicli e gli strumenti musicali giocattolo)",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.50.11",
+    "description": "Fabbricazione di materiale medico-chirurgico e veterinario",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.50.12",
+    "description": "Fabbricazione di apparecchi e strumenti per odontoiatria e di apparecchi medicali (incluse parti staccate e accessori)",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.50.13",
+    "description": "Fabbricazione di mobili per uso medico, chirurgico, odontoiatrico e veterinario",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.50.14",
+    "description": "Fabbricazione di centrifughe per laboratori",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.50.20",
+    "description": "Fabbricazione di protesi dentarie (inclusa riparazione)",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.50.30",
+    "description": "Fabbricazione di protesi ortopediche, altre protesi ed ausili (inclusa riparazione)",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.50.40",
+    "description": "Fabbricazione di lenti oftalmiche",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.50.50",
+    "description": "Fabbricazione di armature per occhiali di qualsiasi tipo; montatura in serie di occhiali comuni",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.91.00",
+    "description": "Fabbricazione di scope e spazzole",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.99.11",
+    "description": "Fabbricazione di articoli di vestiario ignifughi e protettivi di sicurezza",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.99.12",
+    "description": "Fabbricazione di articoli in plastica per la sicurezza personale",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.99.13",
+    "description": "Fabbricazione di articoli in metallo per la sicurezza personale",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.99.14",
+    "description": "Fabbricazione di maschere antigas",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.99.19",
+    "description": "Fabbricazione di altre attrezzature ed altri articoli protettivi di sicurezza",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.99.20",
+    "description": "Fabbricazione di ombrelli, bottoni, chiusure lampo, parrucche e affini",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.99.30",
+    "description": "Fabbricazione di oggetti di cancelleria",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.99.40",
+    "description": "Fabbricazione di casse funebri",
+    "percentage": "67%"
+  },
+  {
+    "code": "32.99.90",
+    "description": "Fabbricazione di altri articoli nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.11.01",
+    "description": "Riparazione e manutenzione di stampi, portastampi, sagome, forme per macchine",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.11.02",
+    "description": "Riparazione e manutenzione di utensileria ad azionamento manuale",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.11.03",
+    "description": "Riparazione e manutenzione di armi, sistemi d'arma e munizioni",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.11.04",
+    "description": "Riparazione e manutenzione di casseforti, forzieri, porte metalliche blindate",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.11.05",
+    "description": "Riparazione e manutenzione di armi bianche",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.11.06",
+    "description": "Riparazione e manutenzione di container",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.11.07",
+    "description": "Riparazione e manutenzione di carrelli per la spesa",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.11.09",
+    "description": "Riparazione e manutenzione di altri prodotti in metallo",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.12.10",
+    "description": "Riparazione e manutenzione di macchine di impiego generale",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.12.20",
+    "description": "Riparazione e manutenzione di forni, fornaci e bruciatori",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.12.30",
+    "description": "Riparazione e manutenzione di macchine e apparecchi di sollevamento e movimentazione (esclusi ascensori)",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.12.40",
+    "description": "Riparazione e manutenzione di attrezzature di uso non domestico per la refrigerazione e la ventilazione",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.12.51",
+    "description": "Riparazione e manutenzione di macchine ed attrezzature per ufficio (esclusi computer, periferiche, fax)",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.12.52",
+    "description": "Riparazione e manutenzione di bilance e macchine automatiche per la vendita e la distribuzione",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.12.53",
+    "description": "Riparazione e manutenzione di macchine per le industrie chimiche, petrolchimiche e petrolifere",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.12.54",
+    "description": "Riparazione e manutenzione di macchine per la dosatura, la confezione e l'imballaggio",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.12.55",
+    "description": "Riparazione e manutenzione di estintori (inclusa la ricarica)",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.12.59",
+    "description": "Riparazione e manutenzione di altre macchine di impiego generale nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.12.60",
+    "description": "Riparazione e manutenzione di trattori agricoli",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.12.70",
+    "description": "Riparazione e manutenzione di altre macchine per l'agricoltura, la silvicoltura e la zootecnia",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.12.91",
+    "description": "Riparazione e manutenzione di parti intercambiabili per macchine utensili",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.12.92",
+    "description": "Riparazione e manutenzione di giostre, altalene, padiglioni da tiro al bersaglio ed altre attrezzature per parchi di divertimento",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.12.99",
+    "description": "Riparazione e manutenzione di altre macchine per impieghi speciali nca (incluse le macchine utensili)",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.13.01",
+    "description": "Riparazione e manutenzione di apparecchiature ottiche, fotografiche e cinematografiche (escluse videocamere)",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.13.03",
+    "description": "Riparazione e manutenzione di apparecchi elettromedicali, di materiale medico-chirurgico e veterinario, di apparecchi e strumenti per odontoiatria",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.13.04",
+    "description": "Riparazione e manutenzione di apparati di distillazione per laboratori, di centrifughe per laboratori e di macchinari per pulizia ad ultrasuoni per laboratori",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.13.09",
+    "description": "Riparazione e manutenzione di altre apparecchiature elettroniche (escluse quelle per le telecomunicazioni ed i computer)",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.14.00",
+    "description": "Riparazione e manutenzione di apparecchiature elettriche (esclusi gli elettrodomestici)",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.15.00",
+    "description": "Riparazione e manutenzione di navi commerciali e imbarcazioni da diporto (esclusi i loro motori)",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.16.00",
+    "description": "Riparazione e manutenzione di aeromobili e di veicoli spaziali",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.17.00",
+    "description": "Riparazione e manutenzione di materiale rotabile ferroviario, tranviario, filoviario e per metropolitane (esclusi i loro motori)",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.19.01",
+    "description": "Riparazioni di pallets e contenitori in legno per trasporto",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.19.02",
+    "description": "Riparazione di prodotti in gomma",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.19.03",
+    "description": "Riparazione di articoli in vetro",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.19.04",
+    "description": "Riparazioni di altri prodotti in legno nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.19.09",
+    "description": "Riparazione di altre apparecchiature nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.20.01",
+    "description": "Installazione di motori, generatori e trasformatori elettrici; di apparecchiature per la distribuzione e il controllo dell'elettricità (esclusa l'installazione all'interno degli edifici)",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.20.02",
+    "description": "Installazione di apparecchi elettrici ed elettronici per telecomunicazioni, di apparecchi trasmittenti radiotelevisivi, di impianti di apparecchiature elettriche ed elettroniche (esclusa l'installazione all'interno degli edifici)",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.20.03",
+    "description": "Installazione di strumenti ed apparecchi di misurazione, controllo, prova, navigazione e simili (incluse le apparecchiature di controllo dei processi industriali)",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.20.04",
+    "description": "Installazione di cisterne, serbatoi e contenitori in metallo",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.20.05",
+    "description": "Installazione di generatori di vapore (escluse le caldaie per il riscaldamento centrale ad acqua calda)",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.20.06",
+    "description": "Installazione di macchine per ufficio, di mainframe e computer simili",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.20.07",
+    "description": "Installazione di apparecchi medicali, di apparecchi e strumenti per odontoiatria",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.20.08",
+    "description": "Installazione di apparecchi elettromedicali",
+    "percentage": "67%"
+  },
+  {
+    "code": "33.20.09",
+    "description": "Installazione di altre macchine ed apparecchiature industriali",
+    "percentage": "67%"
+  },
+  {
+    "code": "35.11.00",
+    "description": "Produzione di energia elettrica",
+    "percentage": "67%"
+  },
+  {
+    "code": "35.12.00",
+    "description": "Trasmissione di energia elettrica",
+    "percentage": "67%"
+  },
+  {
+    "code": "35.13.00",
+    "description": "Distribuzione di energia elettrica",
+    "percentage": "67%"
+  },
+  {
+    "code": "35.14.00",
+    "description": "Commercio di energia elettrica",
+    "percentage": "67%"
+  },
+  {
+    "code": "35.21.00",
+    "description": "Produzione di gas",
+    "percentage": "67%"
+  },
+  {
+    "code": "35.22.00",
+    "description": "Distribuzione di combustibili gassosi mediante condotte",
+    "percentage": "67%"
+  },
+  {
+    "code": "35.23.00",
+    "description": "Commercio di gas distribuito mediante condotte",
+    "percentage": "67%"
+  },
+  {
+    "code": "35.30.00",
+    "description": "Fornitura di vapore e aria condizionata",
+    "percentage": "67%"
+  },
+  {
+    "code": "36.00.00",
+    "description": "Raccolta, trattamento e fornitura di acqua",
+    "percentage": "67%"
+  },
+  {
+    "code": "37.00.00",
+    "description": "Raccolta e depurazione delle acque di scarico",
+    "percentage": "67%"
+  },
+  {
+    "code": "38.11.00",
+    "description": "Raccolta di rifiuti solidi non pericolosi",
+    "percentage": "67%"
+  },
+  {
+    "code": "38.12.00",
+    "description": "Raccolta di rifiuti pericolosi solidi e non solidi",
+    "percentage": "67%"
+  },
+  {
+    "code": "38.21.01",
+    "description": "Produzione di compost",
+    "percentage": "67%"
+  },
+  {
+    "code": "38.21.09",
+    "description": "Trattamento e smaltimento di altri rifiuti non pericolosi",
+    "percentage": "67%"
+  },
+  {
+    "code": "38.22.00",
+    "description": "Trattamento e smaltimento di rifiuti pericolosi",
+    "percentage": "67%"
+  },
+  {
+    "code": "38.31.10",
+    "description": "Demolizione di carcasse",
+    "percentage": "67%"
+  },
+  {
+    "code": "38.31.20",
+    "description": "Cantieri di demolizione navali",
+    "percentage": "67%"
+  },
+  {
+    "code": "38.32.10",
+    "description": "Recupero e preparazione per il riciclaggio di cascami e rottami metallici",
+    "percentage": "67%"
+  },
+  {
+    "code": "38.32.20",
+    "description": "Recupero e preparazione per il riciclaggio di materiale plastico per produzione di materie prime plastiche, resine sintetiche",
+    "percentage": "67%"
+  },
+  {
+    "code": "38.32.30",
+    "description": "Recupero e preparazione per il riciclaggio dei rifiuti solidi urbani, industriali e biomasse",
+    "percentage": "67%"
+  },
+  {
+    "code": "39.00.01",
+    "description": "Attività di rimozione di strutture ed elementi in amianto specializzata per l'edilizia",
+    "percentage": "67%"
+  },
+  {
+    "code": "39.00.09",
+    "description": "Altre attività di risanamento e altri servizi di gestione dei rifiuti",
+    "percentage": "67%"
+  },
+  {
+    "code": "41.10.00",
+    "description": "Sviluppo di progetti immobiliari senza costruzione",
+    "percentage": "86%"
+  },
+  {
+    "code": "41.20.00",
+    "description": "Costruzione di edifici residenziali e non residenziali",
+    "percentage": "86%"
+  },
+  {
+    "code": "42.11.00",
+    "description": "Costruzione di strade, autostrade e piste aeroportuali",
+    "percentage": "86%"
+  },
+  {
+    "code": "42.12.00",
+    "description": "Costruzione di linee ferroviarie e metropolitane",
+    "percentage": "86%"
+  },
+  {
+    "code": "42.13.00",
+    "description": "Costruzione di ponti e gallerie",
+    "percentage": "86%"
+  },
+  {
+    "code": "42.21.00",
+    "description": "Costruzione di opere di pubblica utilità per il trasporto di fluidi",
+    "percentage": "86%"
+  },
+  {
+    "code": "42.22.00",
+    "description": "Costruzione di opere di pubblica utilità per l'energia elettrica e le telecomunicazioni",
+    "percentage": "86%"
+  },
+  {
+    "code": "42.91.00",
+    "description": "Costruzione di opere idrauliche",
+    "percentage": "86%"
+  },
+  {
+    "code": "42.99.01",
+    "description": "Lottizzazione dei terreni connessa con l'urbanizzazione",
+    "percentage": "86%"
+  },
+  {
+    "code": "42.99.09",
+    "description": "Altre attività di costruzione di altre opere di ingegneria civile nca",
+    "percentage": "86%"
+  },
+  {
+    "code": "43.11.00",
+    "description": "Demolizione",
+    "percentage": "86%"
+  },
+  {
+    "code": "43.12.00",
+    "description": "Preparazione del cantiere edile e sistemazione del terreno",
+    "percentage": "86%"
+  },
+  {
+    "code": "43.13.00",
+    "description": "Trivellazioni e perforazioni",
+    "percentage": "86%"
+  },
+  {
+    "code": "43.21.01",
+    "description": "Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)",
+    "percentage": "86%"
+  },
+  {
+    "code": "43.21.02",
+    "description": "Installazione di impianti elettronici (inclusa manutenzione e riparazione)",
+    "percentage": "86%"
+  },
+  {
+    "code": "43.21.03",
+    "description": "Installazione impianti di illuminazione stradale e dispositivi elettrici di segnalazione, illuminazione delle piste degli aeroporti (inclusa manutenzione e riparazione)",
+    "percentage": "86%"
+  },
+  {
+    "code": "43.22.01",
+    "description": "Installazione di impianti idraulici, di riscaldamento e di condizionamento dell'aria (inclusa manutenzione e riparazione) in edifici o in altre opere di costruzione",
+    "percentage": "86%"
+  },
+  {
+    "code": "43.22.02",
+    "description": "Installazione di impianti per la distribuzione del gas (inclusa manutenzione e riparazione)",
+    "percentage": "86%"
+  },
+  {
+    "code": "43.22.03",
+    "description": "Installazione di impianti di spegnimento antincendio (inclusi quelli integrati e la manutenzione e riparazione)",
+    "percentage": "86%"
+  },
+  {
+    "code": "43.22.04",
+    "description": "Installazione di impianti di depurazione per piscine (inclusa manutenzione e riparazione)",
+    "percentage": "86%"
+  },
+  {
+    "code": "43.22.05",
+    "description": "Installazione di impianti di irrigazione per giardini (inclusa manutenzione e riparazione)",
+    "percentage": "86%"
+  },
+  {
+    "code": "43.29.01",
+    "description": "Installazione, riparazione e manutenzione di ascensori e scale mobili",
+    "percentage": "86%"
+  },
+  {
+    "code": "43.29.02",
+    "description": "Lavori di isolamento termico, acustico o antivibrazioni",
+    "percentage": "86%"
+  },
+  {
+    "code": "43.29.09",
+    "description": "Altri lavori di costruzione e installazione nca",
+    "percentage": "86%"
+  },
+  {
+    "code": "43.31.00",
+    "description": "Intonacatura e stuccatura",
+    "percentage": "86%"
+  },
+  {
+    "code": "43.32.01",
+    "description": "Posa in opera di casseforti, forzieri, porte blindate",
+    "percentage": "86%"
+  },
+  {
+    "code": "43.32.02",
+    "description": "Posa in opera di infissi, arredi, controsoffitti, pareti mobili e simili",
+    "percentage": "86%"
+  },
+  {
+    "code": "43.33.00",
+    "description": "Rivestimento di pavimenti e di muri",
+    "percentage": "86%"
+  },
+  {
+    "code": "43.34.00",
+    "description": "Tinteggiatura e posa in opera di vetri",
+    "percentage": "86%"
+  },
+  {
+    "code": "43.39.01",
+    "description": "Attività non specializzate di lavori edili (muratori)",
+    "percentage": "86%"
+  },
+  {
+    "code": "43.39.09",
+    "description": "Altri lavori di completamento e di finitura degli edifici nca",
+    "percentage": "86%"
+  },
+  {
+    "code": "43.91.00",
+    "description": "Realizzazione di coperture",
+    "percentage": "86%"
+  },
+  {
+    "code": "43.99.01",
+    "description": "Pulizia a vapore, sabbiatura e attività simili per pareti esterne di edifici",
+    "percentage": "86%"
+  },
+  {
+    "code": "43.99.02",
+    "description": "Noleggio di gru ed altre attrezzature con operatore per la costruzione o la demolizione",
+    "percentage": "86%"
+  },
+  {
+    "code": "43.99.09",
+    "description": "Altre attività di lavori specializzati di costruzione nca",
+    "percentage": "86%"
+  },
+  {
+    "code": "45.11.01",
+    "description": "Commercio all'ingrosso e al dettaglio di autovetture e di autoveicoli leggeri",
+    "percentage": "40%"
+  },
+  {
+    "code": "45.11.02",
+    "description": "Intermediari del commercio di autovetture e di autoveicoli leggeri (incluse le agenzie di compravendita)",
+    "percentage": "40%"
+  },
+  {
+    "code": "45.19.01",
+    "description": "Commercio all'ingrosso e al dettaglio di altri autoveicoli",
+    "percentage": "40%"
+  },
+  {
+    "code": "45.19.02",
+    "description": "Intermediari del commercio di altri autoveicoli (incluse le agenzie di compravendita)",
+    "percentage": "40%"
+  },
+  {
+    "code": "45.20.10",
+    "description": "Riparazioni meccaniche di autoveicoli",
+    "percentage": "40%"
+  },
+  {
+    "code": "45.20.20",
+    "description": "Riparazione di carrozzerie di autoveicoli",
+    "percentage": "40%"
+  },
+  {
+    "code": "45.20.30",
+    "description": "Riparazione di impianti elettrici e di alimentazione per autoveicoli",
+    "percentage": "40%"
+  },
+  {
+    "code": "45.20.40",
+    "description": "Riparazione e sostituzione di pneumatici per autoveicoli",
+    "percentage": "40%"
+  },
+  {
+    "code": "45.20.91",
+    "description": "Lavaggio auto",
+    "percentage": "40%"
+  },
+  {
+    "code": "45.20.99",
+    "description": "Altre attività di manutenzione e di riparazione di autoveicoli",
+    "percentage": "40%"
+  },
+  {
+    "code": "45.31.01",
+    "description": "Commercio all'ingrosso di parti e accessori di autoveicoli",
+    "percentage": "40%"
+  },
+  {
+    "code": "45.31.02",
+    "description": "Intermediari del commercio di parti ed accessori di autoveicoli",
+    "percentage": "40%"
+  },
+  {
+    "code": "45.32.00",
+    "description": "Commercio al dettaglio di parti e accessori di autoveicoli",
+    "percentage": "40%"
+  },
+  {
+    "code": "45.40.11",
+    "description": "Commercio all'ingrosso e al dettaglio di motocicli e ciclomotori",
+    "percentage": "40%"
+  },
+  {
+    "code": "45.40.12",
+    "description": "Intermediari del commercio di motocicli e ciclomotori",
+    "percentage": "40%"
+  },
+  {
+    "code": "45.40.21",
+    "description": "Commercio all'ingrosso e al dettaglio di parti e accessori per motocicli e ciclomotori",
+    "percentage": "40%"
+  },
+  {
+    "code": "45.40.22",
+    "description": "Intermediari del commercio di parti ed accessori di motocicli e ciclomotori",
+    "percentage": "40%"
+  },
+  {
+    "code": "45.40.30",
+    "description": "Manutenzione e riparazione di motocicli e ciclomotori (inclusi i pneumatici)",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.11.01",
+    "description": "Agenti e rappresentanti di materie prime agricole",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.11.02",
+    "description": "Agenti e rappresentanti di fiori e piante",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.11.03",
+    "description": "Agenti e rappresentanti di animali vivi",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.11.04",
+    "description": "Agenti e rappresentanti di fibre tessili gregge e semilavorate; pelli grezze",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.11.05",
+    "description": "Procacciatori d'affari di materie prime agricole, animali vivi, materie prime e semilavorati tessili; pelli grezze",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.11.06",
+    "description": "Mediatori in materie prime agricole, materie prime e semilavorati tessili; pelli grezze",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.11.07",
+    "description": "Mediatori in animali vivi",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.12.01",
+    "description": "Agenti e rappresentanti di carburanti, gpl, gas in bombole e simili; lubrificanti",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.12.02",
+    "description": "Agenti e rappresentanti di combustibili solidi",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.12.03",
+    "description": "Agenti e rappresentanti di minerali, metalli e prodotti semilavorati",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.12.04",
+    "description": "Agenti e rappresentanti di prodotti chimici per l'industria",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.12.05",
+    "description": "Agenti e rappresentanti di prodotti chimici per l'agricoltura (inclusi i fertilizzanti)",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.12.06",
+    "description": "Procacciatori d'affari di combustibili, minerali, metalli e prodotti chimici",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.12.07",
+    "description": "Mediatori in combustibili, minerali, metalli e prodotti chimici",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.13.01",
+    "description": "Agenti e rappresentanti di legname, semilavorati in legno e legno artificiale",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.13.02",
+    "description": "Agenti e rappresentanti di materiale da costruzione (inclusi gli infissi e gli articoli igienico-sanitari); vetro piano",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.13.03",
+    "description": "Agenti e rappresentanti di apparecchi ed accessori per riscaldamento e condizionamento e altri prodotti similari",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.13.04",
+    "description": "Procacciatori d'affari di legname e materiali da costruzione",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.13.05",
+    "description": "Mediatori in legname e materiali da costruzione",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.14.01",
+    "description": "Agenti e rappresentanti di macchine, attrezzature ed impianti per l'industria ed il commercio; materiale e apparecchi elettrici ed elettronici per uso non domestico",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.14.02",
+    "description": "Agenti e rappresentanti di macchine per costruzioni edili e stradali",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.14.03",
+    "description": "Agenti e rappresentanti di macchine, attrezzature per ufficio, attrezzature per le telecomunicazioni, computer e loro periferiche",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.14.04",
+    "description": "Agenti e rappresentanti di macchine ed attrezzature per uso agricolo (inclusi i trattori)",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.14.05",
+    "description": "Agenti e rappresentanti di navi, aeromobili e altri veicoli (esclusi autoveicoli, motocicli, ciclomotori e biciclette)",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.14.06",
+    "description": "Procacciatori d'affari di macchinari, impianti industriali, navi e aeromobili, macchine agricole, macchine per ufficio, attrezzature per le telecomunicazioni, computer e loro periferiche",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.14.07",
+    "description": "Mediatori in macchinari, impianti industriali, navi e aeromobili, macchine agricole, macchine per ufficio, attrezzature per le telecomunicazioni, computer e loro periferiche",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.15.01",
+    "description": "Agenti e rappresentanti di mobili in legno, metallo e materie plastiche",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.15.02",
+    "description": "Agenti e rappresentanti di articoli di ferramenta e di bricolage",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.15.03",
+    "description": "Agenti e rappresentanti di articoli casalinghi, porcellane, articoli in vetro eccetera",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.15.04",
+    "description": "Agenti e rappresentanti di vernici, carte da parati, stucchi e cornici decorativi",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.15.05",
+    "description": "Agenti e rappresentanti di mobili e oggetti di arredamento per la casa in canna, vimini, giunco, sughero, paglia; scope, spazzole, cesti e simili",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.15.06",
+    "description": "Procacciatori d'affari di mobili, articoli per la casa e ferramenta",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.15.07",
+    "description": "Mediatori in mobili, articoli per la casa e ferramenta",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.16.01",
+    "description": "Agenti e rappresentanti di vestiario ed accessori di abbigliamento",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.16.02",
+    "description": "Agenti e rappresentanti di pellicce",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.16.03",
+    "description": "Agenti e rappresentanti di tessuti per abbigliamento ed arredamento (incluse merceria e passamaneria)",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.16.04",
+    "description": "Agenti e rappresentanti di camicie, biancheria e maglieria intima",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.16.05",
+    "description": "Agenti e rappresentanti di calzature ed accessori",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.16.06",
+    "description": "Agenti e rappresentanti di pelletteria, valige ed articoli da viaggio",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.16.07",
+    "description": "Agenti e rappresentanti di articoli tessili per la casa, tappeti, stuoie e materassi",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.16.08",
+    "description": "Procacciatori d'affari di prodotti tessili, abbigliamento, pellicce, calzature e articoli in pelle",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.16.09",
+    "description": "Mediatori in prodotti tessili, abbigliamento, pellicce, calzature e articoli in pelle",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.17.01",
+    "description": "Agenti e rappresentanti di prodotti ortofrutticoli freschi, congelati e surgelati",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.17.02",
+    "description": "Agenti e rappresentanti di carni fresche, congelate, surgelate, conservate e secche; salumi",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.17.03",
+    "description": "Agenti e rappresentanti di latte, burro e formaggi",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.17.04",
+    "description": "Agenti e rappresentanti di oli e grassi alimentari: olio d'oliva e di semi, margarina ed altri prodotti similari",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.17.05",
+    "description": "Agenti e rappresentanti di bevande e prodotti similari",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.17.06",
+    "description": "Agenti e rappresentanti di prodotti ittici freschi, congelati, surgelati e conservati e secchi",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.17.07",
+    "description": "Agenti e rappresentanti di altri prodotti alimentari (incluse le uova e gli alimenti per gli animali domestici); tabacco",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.17.08",
+    "description": "Procacciatori d'affari di prodotti alimentari, bevande e tabacco",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.17.09",
+    "description": "Mediatori in prodotti alimentari, bevande e tabacco",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.18.11",
+    "description": "Agenti e rappresentanti di carta e cartone (esclusi gli imballaggi); articoli di cartoleria e cancelleria",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.18.12",
+    "description": "Agenti e rappresentanti di libri e altre pubblicazioni (incluso i relativi abbonamenti)",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.18.13",
+    "description": "Procacciatori d'affari di prodotti di carta, cancelleria, libri",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.18.14",
+    "description": "Mediatori in prodotti di carta, cancelleria, libri",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.18.21",
+    "description": "Agenti e rappresentanti di elettronica di consumo audio e video, materiale elettrico per uso domestico",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.18.22",
+    "description": "Agenti e rappresentanti di apparecchi elettrodomestici",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.18.23",
+    "description": "Procacciatori d'affari di elettronica di consumo audio e video, materiale elettrico per uso domestico, elettrodomestici",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.18.24",
+    "description": "Mediatori in elettronica di consumo audio e video, materiale elettrico per uso domestico, elettrodomestici",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.18.31",
+    "description": "Agenti e rappresentanti di prodotti farmaceutici; prodotti di erboristeria per uso medico",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.18.32",
+    "description": "Agenti e rappresentanti di prodotti sanitari ed apparecchi medicali, chirurgici e ortopedici; apparecchi per centri di estetica",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.18.33",
+    "description": "Agenti e rappresentanti di prodotti di profumeria e di cosmetica (inclusi articoli per parrucchieri); prodotti di erboristeria per uso cosmetico",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.18.34",
+    "description": "Procacciatori d'affari di prodotti farmaceutici e di cosmetici",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.18.35",
+    "description": "Mediatori in prodotti farmaceutici e cosmetici",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.18.91",
+    "description": "Agenti e rappresentanti di attrezzature sportive; biciclette",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.18.92",
+    "description": "Agenti e rappresentanti di orologi, oggetti e semilavorati per gioielleria e oreficeria",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.18.93",
+    "description": "Agenti e rappresentanti di articoli fotografici, ottici e prodotti simili; strumenti scientifici e per laboratori di analisi",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.18.94",
+    "description": "Agenti e rappresentanti di saponi, detersivi, candele e prodotti simili",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.18.95",
+    "description": "Agenti e rappresentanti di giocattoli",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.18.96",
+    "description": "Agenti e rappresentanti di chincaglieria e bigiotteria",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.18.97",
+    "description": "Agenti e rappresentanti di altri prodotti non alimentari nca (inclusi gli imballaggi e gli articoli antinfortunistici, antincendio e pubblicitari)",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.18.98",
+    "description": "Procacciatori d'affari di attrezzature sportive, biciclette e altri prodotti nca",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.18.99",
+    "description": "Mediatori in attrezzature sportive, biciclette e altri prodotti nca",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.19.01",
+    "description": "Agenti e rappresentanti di vari prodotti senza prevalenza di alcuno",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.19.02",
+    "description": "Procacciatori d'affari di vari prodotti senza prevalenza di alcuno",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.19.03",
+    "description": "Mediatori in vari prodotti senza prevalenza di alcuno",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.19.04",
+    "description": "Gruppi di acquisto; mandatari agli acquisti; buyer",
+    "percentage": "62%"
+  },
+  {
+    "code": "46.21.10",
+    "description": "Commercio all'ingrosso di cereali e legumi secchi",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.21.21",
+    "description": "Commercio all'ingrosso di tabacco grezzo",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.21.22",
+    "description": "Commercio all'ingrosso di sementi e alimenti per il bestiame (mangimi), piante officinali, semi oleosi, patate da semina",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.22.00",
+    "description": "Commercio all'ingrosso di fiori e piante",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.23.00",
+    "description": "Commercio all'ingrosso di animali vivi",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.24.10",
+    "description": "Commercio all'ingrosso di cuoio e pelli gregge e lavorate (escluse le pelli per pellicceria)",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.24.20",
+    "description": "Commercio all'ingrosso di pelli gregge e lavorate per pellicceria",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.31.10",
+    "description": "Commercio all'ingrosso di frutta e ortaggi freschi",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.31.20",
+    "description": "Commercio all'ingrosso di frutta e ortaggi conservati",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.32.10",
+    "description": "Commercio all'ingrosso di carne fresca, congelata e surgelata",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.32.20",
+    "description": "Commercio all'ingrosso di prodotti di salumeria",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.33.10",
+    "description": "Commercio all'ingrosso di prodotti lattiero-caseari e di uova",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.33.20",
+    "description": "Commercio all'ingrosso di oli e grassi alimentari di origine vegetale o animale",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.34.10",
+    "description": "Commercio all'ingrosso di bevande alcoliche",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.34.20",
+    "description": "Commercio all'ingrosso di bevande non alcoliche",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.35.00",
+    "description": "Commercio all'ingrosso di prodotti del tabacco",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.36.00",
+    "description": "Commercio all'ingrosso di zucchero, cioccolato, dolciumi e prodotti da forno",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.37.01",
+    "description": "Commercio all'ingrosso di caffè",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.37.02",
+    "description": "Commercio all'ingrosso di tè, cacao e spezie",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.38.10",
+    "description": "Commercio all'ingrosso di prodotti della pesca freschi",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.38.20",
+    "description": "Commercio all'ingrosso di prodotti della pesca congelati, surgelati, conservati, secchi",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.38.30",
+    "description": "Commercio all'ingrosso di pasti e piatti pronti",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.38.90",
+    "description": "Commercio all'ingrosso di altri prodotti alimentari",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.39.10",
+    "description": "Commercio all'ingrosso non specializzato di prodotti surgelati",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.39.20",
+    "description": "Commercio all'ingrosso non specializzato di altri prodotti alimentari, bevande e tabacco",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.41.10",
+    "description": "Commercio all'ingrosso di tessuti",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.41.20",
+    "description": "Commercio all'ingrosso di articoli di merceria, filati e passamaneria",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.41.90",
+    "description": "Commercio all'ingrosso di altri articoli tessili",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.42.10",
+    "description": "Commercio all'ingrosso di abbigliamento e accessori",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.42.20",
+    "description": "Commercio all'ingrosso di articoli in pelliccia",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.42.30",
+    "description": "Commercio all'ingrosso di camicie, biancheria intima, maglieria e simili",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.42.40",
+    "description": "Commercio all'ingrosso di calzature e accessori",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.43.10",
+    "description": "Commercio all'ingrosso di elettrodomestici, di elettronica di consumo audio e video",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.43.20",
+    "description": "Commercio all'ingrosso di supporti registrati, audio, video (Cd, Dvd e altri supporti)",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.43.30",
+    "description": "Commercio all'ingrosso di articoli per fotografia, cinematografia e ottica",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.44.10",
+    "description": "Commercio all'ingrosso di vetreria e cristalleria",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.44.20",
+    "description": "Commercio all'ingrosso di ceramiche e porcellana",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.44.30",
+    "description": "Commercio all'ingrosso di saponi, detersivi e altri prodotti per la pulizia",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.44.40",
+    "description": "Commercio all'ingrosso di coltelleria, posateria e pentolame",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.45.00",
+    "description": "Commercio all'ingrosso di profumi e cosmetici",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.46.10",
+    "description": "Commercio all'ingrosso di medicinali",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.46.20",
+    "description": "Commercio all'ingrosso di prodotti botanici per uso farmaceutico",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.46.30",
+    "description": "Commercio all'ingrosso di articoli medicali ed ortopedici",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.47.10",
+    "description": "Commercio all'ingrosso di mobili di qualsiasi materiale",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.47.20",
+    "description": "Commercio all'ingrosso di tappeti",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.47.30",
+    "description": "Commercio all'ingrosso di articoli per l'illuminazione; materiale elettrico vario per uso domestico",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.48.00",
+    "description": "Commercio all'ingrosso di orologi e di gioielleria",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.49.10",
+    "description": "Commercio all'ingrosso di carta, cartone e articoli di cartoleria",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.49.20",
+    "description": "Commercio all'ingrosso di libri, riviste e giornali",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.49.30",
+    "description": "Commercio all'ingrosso di giochi e giocattoli",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.49.40",
+    "description": "Commercio all'ingrosso di articoli sportivi (incluse le biciclette)",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.49.50",
+    "description": "Commercio all'ingrosso di articoli in pelle; articoli da viaggio in qualsiasi materiale",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.49.90",
+    "description": "Commercio all'ingrosso di vari prodotti di consumo non alimentare nca",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.51.00",
+    "description": "Commercio all'ingrosso di computer, apparecchiature informatiche periferiche e di software",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.52.01",
+    "description": "Commercio all'ingrosso di apparecchi e materiali telefonici",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.52.02",
+    "description": "Commercio all'ingrosso di nastri non registrati",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.52.09",
+    "description": "Commercio all'ingrosso di altre apparecchiature elettroniche per telecomunicazioni e di altri componenti elettronici",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.61.00",
+    "description": "Commercio all'ingrosso di macchine, accessori e utensili agricoli, inclusi i trattori",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.62.00",
+    "description": "Commercio all'ingrosso di macchine utensili (incluse le relative parti intercambiabili)",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.63.00",
+    "description": "Commercio all'ingrosso di macchine per le miniere, l'edilizia e l'ingegneria civile",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.64.00",
+    "description": "Commercio all'ingrosso di macchine per l'industria tessile, di macchine per cucire e per maglieria",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.65.00",
+    "description": "Commercio all'ingrosso di mobili per ufficio e negozi",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.66.00",
+    "description": "Commercio all'ingrosso di altre macchine e attrezzature per ufficio",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.69.11",
+    "description": "Commercio all'ingrosso di imbarcazioni da diporto",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.69.19",
+    "description": "Commercio all'ingrosso di altri mezzi ed attrezzature di trasporto",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.69.20",
+    "description": "Commercio all'ingrosso di materiale elettrico per impianti di uso industriale",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.69.30",
+    "description": "Commercio all'ingrosso di apparecchiature per parrucchieri, palestre, solarium e centri estetici",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.69.91",
+    "description": "Commercio all'ingrosso di strumenti e attrezzature di misurazione per uso scientifico",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.69.92",
+    "description": "Commercio all'ingrosso di strumenti e attrezzature di misurazione per uso non scientifico",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.69.93",
+    "description": "Commercio all'ingrosso di giochi per luna-park e videogiochi per pubblici esercizi",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.69.94",
+    "description": "Commercio all'ingrosso di articoli antincendio e antinfortunistici",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.69.99",
+    "description": "Commercio all'ingrosso di altre macchine ed attrezzature per l'industria, il commercio e la navigazione nca",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.71.00",
+    "description": "Commercio all'ingrosso di prodotti petroliferi e lubrificanti per autotrazione, di combustibili per riscaldamento",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.72.10",
+    "description": "Commercio all'ingrosso di minerali metalliferi, di metalli ferrosi e prodotti semilavorati",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.72.20",
+    "description": "Commercio all'ingrosso di metalli non ferrosi e prodotti semilavorati",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.73.10",
+    "description": "Commercio all'ingrosso di legname, semilavorati in legno e legno artificiale",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.73.21",
+    "description": "Commercio all'ingrosso di moquette e linoleum",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.73.22",
+    "description": "Commercio all'ingrosso di altri materiali per rivestimenti (inclusi gli apparecchi igienico-sanitari)",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.73.23",
+    "description": "Commercio all'ingrosso di infissi",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.73.29",
+    "description": "Commercio all'ingrosso di altri materiali da costruzione",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.73.30",
+    "description": "Commercio all'ingrosso di vetro piano",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.73.40",
+    "description": "Commercio all'ingrosso di carta da parati, colori e vernici",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.74.10",
+    "description": "Commercio all'ingrosso di articoli in ferro e in altri metalli (ferramenta)",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.74.20",
+    "description": "Commercio all'ingrosso di apparecchi e accessori per impianti idraulici, di riscaldamento e di condizionamento",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.75.01",
+    "description": "Commercio all'ingrosso di fertilizzanti e di altri prodotti chimici per l'agricoltura",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.75.02",
+    "description": "Commercio all'ingrosso di prodotti chimici per l'industria",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.76.10",
+    "description": "Commercio all'ingrosso di fibre tessili gregge e semilavorate",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.76.20",
+    "description": "Commercio all'ingrosso di gomma greggia, materie plastiche in forme primarie e semilavorati",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.76.30",
+    "description": "Commercio all'ingrosso di imballaggi",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.76.90",
+    "description": "Commercio all'ingrosso di altri prodotti intermedi nca",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.77.10",
+    "description": "Commercio all'ingrosso di rottami e sottoprodotti della lavorazione industriale metallici",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.77.20",
+    "description": "Commercio all'ingrosso di altri materiali di recupero non metallici (vetro, carta, cartoni eccetera); sottoprodotti non metallici della lavorazione industriale (cascami)",
+    "percentage": "40%"
+  },
+  {
+    "code": "46.90.00",
+    "description": "Commercio all'ingrosso non specializzato",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.11.10",
+    "description": "Ipermercati",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.11.20",
+    "description": "Supermercati",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.11.30",
+    "description": "Discount di alimentari",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.11.40",
+    "description": "Minimercati ed altri esercizi non specializzati di alimentari vari",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.11.50",
+    "description": "Commercio al dettaglio di prodotti surgelati",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.19.10",
+    "description": "Grandi magazzini",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.19.20",
+    "description": "Commercio al dettaglio in esercizi non specializzati di computer, periferiche, attrezzature per le telecomunicazioni, elettronica di consumo audio e video, elettrodomestici",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.19.90",
+    "description": "Empori ed altri negozi non specializzati di vari prodotti non alimentari",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.21.01",
+    "description": "Commercio al dettaglio di frutta e verdura fresca",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.21.02",
+    "description": "Commercio al dettaglio di frutta e verdura preparata e conservata",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.22.00",
+    "description": "Commercio al dettaglio di carni e di prodotti a base di carne",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.23.00",
+    "description": "Commercio al dettaglio di pesci, crostacei e molluschi",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.24.10",
+    "description": "Commercio al dettaglio di pane",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.24.20",
+    "description": "Commercio al dettaglio di torte, dolciumi, confetteria",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.25.00",
+    "description": "Commercio al dettaglio di bevande",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.26.00",
+    "description": "Commercio al dettaglio di generi di monopolio (tabaccherie)",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.29.10",
+    "description": "Commercio al dettaglio di latte e di prodotti lattiero-caseari",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.29.20",
+    "description": "Commercio al dettaglio di caffè torrefatto",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.29.30",
+    "description": "Commercio al dettaglio di prodotti macrobiotici e dietetici",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.29.90",
+    "description": "Commercio al dettaglio di altri prodotti alimentari in esercizi specializzati nca",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.30.00",
+    "description": "Commercio al dettaglio di carburante per autotrazione",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.41.00",
+    "description": "Commercio al dettaglio di computer, unità periferiche, software e attrezzature per ufficio in esercizi specializzati",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.42.00",
+    "description": "Commercio al dettaglio di apparecchiature per le telecomunicazioni e la telefonia in esercizi specializzati",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.43.00",
+    "description": "Commercio al dettaglio di apparecchi audio e video in esercizi specializzati",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.51.10",
+    "description": "Commercio al dettaglio di tessuti per l'abbigliamento, l'arredamento e di biancheria per la casa",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.51.20",
+    "description": "Commercio al dettaglio di filati per maglieria e merceria",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.52.10",
+    "description": "Commercio al dettaglio di ferramenta, vernici, vetro piano e materiale elettrico e termoidraulico",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.52.20",
+    "description": "Commercio al dettaglio di articoli igienico-sanitari",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.52.30",
+    "description": "Commercio al dettaglio di materiali da costruzione, ceramiche e piastrelle",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.52.40",
+    "description": "Commercio al dettaglio di macchine, attrezzature e prodotti per l'agricoltura; macchine e attrezzature per il giardinaggio",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.53.11",
+    "description": "Commercio al dettaglio di tende e tendine",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.53.12",
+    "description": "Commercio al dettaglio di tappeti",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.53.20",
+    "description": "Commercio al dettaglio di carta da parati e rivestimenti per pavimenti (moquette e linoleum)",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.54.00",
+    "description": "Commercio al dettaglio di elettrodomestici in esercizi specializzati",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.59.10",
+    "description": "Commercio al dettaglio di mobili per la casa",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.59.20",
+    "description": "Commercio al dettaglio di utensili per la casa, di cristallerie e vasellame",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.59.30",
+    "description": "Commercio al dettaglio di articoli per l'illuminazione",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.59.40",
+    "description": "Commercio al dettaglio di macchine per cucire e per maglieria per uso domestico",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.59.50",
+    "description": "Commercio al dettaglio di sistemi di sicurezza",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.59.60",
+    "description": "Commercio al dettaglio di strumenti musicali e spartiti",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.59.91",
+    "description": "Commercio al dettaglio di articoli in legno, sughero, vimini e articoli in plastica per uso domestico",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.59.99",
+    "description": "Commercio al dettaglio di altri articoli per uso domestico nca",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.61.00",
+    "description": "Commercio al dettaglio di libri nuovi in esercizi specializzati",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.62.10",
+    "description": "Commercio al dettaglio di giornali, riviste e periodici",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.62.20",
+    "description": "Commercio al dettaglio di articoli di cartoleria e forniture per ufficio",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.63.00",
+    "description": "Commercio al dettaglio di registrazioni musicali e video in esercizi specializzati",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.64.10",
+    "description": "Commercio al dettaglio di articoli sportivi, biciclette e articoli per il tempo libero",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.64.20",
+    "description": "Commercio al dettaglio di natanti e accessori",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.65.00",
+    "description": "Commercio al dettaglio di giochi e giocattoli (inclusi quelli elettronici)",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.71.10",
+    "description": "Commercio al dettaglio di confezioni per adulti",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.71.20",
+    "description": "Commercio al dettaglio di confezioni per bambini e neonati",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.71.30",
+    "description": "Commercio al dettaglio di biancheria personale, maglieria, camicie",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.71.40",
+    "description": "Commercio al dettaglio di pellicce e di abbigliamento in pelle",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.71.50",
+    "description": "Commercio al dettaglio di cappelli, ombrelli, guanti e cravatte",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.72.10",
+    "description": "Commercio al dettaglio di calzature e accessori",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.72.20",
+    "description": "Commercio al dettaglio di articoli di pelletteria e da viaggio",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.73.10",
+    "description": "Farmacie",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.73.20",
+    "description": "Commercio al dettaglio in altri esercizi specializzati di medicinali non soggetti a prescrizione medica",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.74.00",
+    "description": "Commercio al dettaglio di articoli medicali e ortopedici in esercizi specializzati",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.75.10",
+    "description": "Commercio al dettaglio di articoli di profumeria, prodotti per toletta e per l'igiene personale",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.75.20",
+    "description": "Erboristerie",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.76.10",
+    "description": "Commercio al dettaglio di fiori e piante",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.76.20",
+    "description": "Commercio al dettaglio di piccoli animali domestici",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.77.00",
+    "description": "Commercio al dettaglio di orologi, articoli di gioielleria e argenteria",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.78.10",
+    "description": "Commercio al dettaglio di mobili per ufficio",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.78.20",
+    "description": "Commercio al dettaglio di materiale per ottica e fotografia",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.78.31",
+    "description": "Commercio al dettaglio di oggetti d'arte (incluse le gallerie d'arte)",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.78.32",
+    "description": "Commercio al dettaglio di oggetti d'artigianato",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.78.33",
+    "description": "Commercio al dettaglio di arredi sacri ed articoli religiosi",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.78.34",
+    "description": "Commercio al dettaglio di articoli da regalo e per fumatori",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.78.35",
+    "description": "Commercio al dettaglio di bomboniere",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.78.36",
+    "description": "Commercio al dettaglio di chincaglieria e bigiotteria (inclusi gli oggetti ricordo e gli articoli di promozione pubblicitaria)",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.78.37",
+    "description": "Commercio al dettaglio di articoli per le belle arti",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.78.40",
+    "description": "Commercio al dettaglio di combustibile per uso domestico e per riscaldamento",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.78.50",
+    "description": "Commercio al dettaglio di armi e munizioni, articoli militari",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.78.60",
+    "description": "Commercio al dettaglio di saponi, detersivi, prodotti per la lucidatura e affini",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.78.91",
+    "description": "Commercio al dettaglio di filatelia, numismatica e articoli da collezionismo",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.78.92",
+    "description": "Commercio al dettaglio di spaghi, cordami, tele e sacchi di juta e prodotti per l'imballaggio (esclusi quelli in carta e cartone)",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.78.93",
+    "description": "Commercio al dettaglio di articoli funerari e cimiteriali",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.78.94",
+    "description": "Commercio al dettaglio di articoli per adulti (sexy shop)",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.78.99",
+    "description": "Commercio al dettaglio di altri prodotti non alimentari nca",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.79.10",
+    "description": "Commercio al dettaglio di libri di seconda mano",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.79.20",
+    "description": "Commercio al dettaglio di mobili usati e oggetti di antiquariato",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.79.30",
+    "description": "Commercio al dettaglio di indumenti e altri oggetti usati",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.79.40",
+    "description": "Case d'asta al dettaglio (escluse aste via internet)",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.81.01",
+    "description": "Commercio al dettaglio ambulante di prodotti ortofrutticoli",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.81.02",
+    "description": "Commercio al dettaglio ambulante di prodotti ittici",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.81.03",
+    "description": "Commercio al dettaglio ambulante di carne",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.81.09",
+    "description": "Commercio al dettaglio ambulante di altri prodotti alimentari e bevande nca",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.82.01",
+    "description": "Commercio al dettaglio ambulante di tessuti, articoli tessili per la casa, articoli di abbigliamento",
+    "percentage": "54%"
+  },
+  {
+    "code": "47.82.02",
+    "description": "Commercio al dettaglio ambulante di calzature e pelletterie",
+    "percentage": "54%"
+  },
+  {
+    "code": "47.89.01",
+    "description": "Commercio al dettaglio ambulante di fiori, piante, bulbi, semi e fertilizzanti",
+    "percentage": "54%"
+  },
+  {
+    "code": "47.89.02",
+    "description": "Commercio al dettaglio ambulante di macchine, attrezzature e prodotti per l'agricoltura; attrezzature per il giardinaggio",
+    "percentage": "54%"
+  },
+  {
+    "code": "47.89.03",
+    "description": "Commercio al dettaglio ambulante di profumi e cosmetici; saponi, detersivi ed altri detergenti per qualsiasi uso",
+    "percentage": "54%"
+  },
+  {
+    "code": "47.89.04",
+    "description": "Commercio al dettaglio ambulante di chincaglieria e bigiotteria",
+    "percentage": "54%"
+  },
+  {
+    "code": "47.89.05",
+    "description": "Commercio al dettaglio ambulante di arredamenti per giardino; mobili; tappeti e stuoie; articoli casalinghi; elettrodomestici; materiale elettrico",
+    "percentage": "54%"
+  },
+  {
+    "code": "47.89.09",
+    "description": "Commercio al dettaglio ambulante di altri prodotti nca",
+    "percentage": "54%"
+  },
+  {
+    "code": "47.91.10",
+    "description": "Commercio al dettaglio di qualsiasi tipo di prodotto effettuato via internet",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.91.20",
+    "description": "Commercio al dettaglio di qualsiasi tipo di prodotto effettuato per televisione",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.91.30",
+    "description": "Commercio al dettaglio di qualsiasi tipo di prodotto per corrispondenza, radio, telefono",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.99.10",
+    "description": "Commercio al dettaglio di prodotti vari, mediante l'intervento di un dimostratore o di un incaricato alla vendita (porta a porta)",
+    "percentage": "40%"
+  },
+  {
+    "code": "47.99.20",
+    "description": "Commercio effettuato per mezzo di distributori automatici",
+    "percentage": "40%"
+  },
+  {
+    "code": "49.10.00",
+    "description": "Trasporto ferroviario di passeggeri (interurbano)",
+    "percentage": "67%"
+  },
+  {
+    "code": "49.20.00",
+    "description": "Trasporto ferroviario di merci",
+    "percentage": "67%"
+  },
+  {
+    "code": "49.31.00",
+    "description": "Trasporto terrestre di passeggeri in aree urbane e suburbane",
+    "percentage": "67%"
+  },
+  {
+    "code": "49.32.10",
+    "description": "Trasporto con taxi",
+    "percentage": "67%"
+  },
+  {
+    "code": "49.32.20",
+    "description": "Trasporto mediante noleggio di autovetture da rimessa con conducente",
+    "percentage": "67%"
+  },
+  {
+    "code": "49.39.01",
+    "description": "Gestioni di funicolari, ski-lift e seggiovie se non facenti parte dei sistemi di transito urbano o suburbano",
+    "percentage": "67%"
+  },
+  {
+    "code": "49.39.09",
+    "description": "Altre attività di trasporti terrestri di passeggeri nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "49.41.00",
+    "description": "Trasporto di merci su strada",
+    "percentage": "67%"
+  },
+  {
+    "code": "49.42.00",
+    "description": "Servizi di trasloco",
+    "percentage": "67%"
+  },
+  {
+    "code": "49.50.10",
+    "description": "Trasporto mediante condotte di gas",
+    "percentage": "67%"
+  },
+  {
+    "code": "49.50.20",
+    "description": "Trasporto mediante condotte di liquidi",
+    "percentage": "67%"
+  },
+  {
+    "code": "50.10.00",
+    "description": "Trasporto marittimo e costiero di passeggeri",
+    "percentage": "67%"
+  },
+  {
+    "code": "50.20.00",
+    "description": "Trasporto marittimo e costiero di merci",
+    "percentage": "67%"
+  },
+  {
+    "code": "50.30.00",
+    "description": "Trasporto di passeggeri per vie d'acqua interne (inclusi i trasporti lagunari)",
+    "percentage": "67%"
+  },
+  {
+    "code": "50.40.00",
+    "description": "Trasporto di merci per vie d'acqua interne",
+    "percentage": "67%"
+  },
+  {
+    "code": "51.10.10",
+    "description": "Trasporto aereo di linea di passeggeri",
+    "percentage": "67%"
+  },
+  {
+    "code": "51.10.20",
+    "description": "Trasporto aereo non di linea di passeggeri; voli charter",
+    "percentage": "67%"
+  },
+  {
+    "code": "51.21.00",
+    "description": "Trasporto aereo di merci",
+    "percentage": "67%"
+  },
+  {
+    "code": "51.22.00",
+    "description": "Trasporto spaziale",
+    "percentage": "67%"
+  },
+  {
+    "code": "52.10.10",
+    "description": "Magazzini di custodia e deposito per conto terzi",
+    "percentage": "67%"
+  },
+  {
+    "code": "52.10.20",
+    "description": "Magazzini frigoriferi per conto terzi",
+    "percentage": "67%"
+  },
+  {
+    "code": "52.21.10",
+    "description": "Gestione di infrastrutture ferroviarie",
+    "percentage": "67%"
+  },
+  {
+    "code": "52.21.20",
+    "description": "Gestione di strade, ponti, gallerie",
+    "percentage": "67%"
+  },
+  {
+    "code": "52.21.30",
+    "description": "Gestione di stazioni per autobus",
+    "percentage": "67%"
+  },
+  {
+    "code": "52.21.40",
+    "description": "Gestione di centri di movimentazione merci (interporti)",
+    "percentage": "67%"
+  },
+  {
+    "code": "52.21.50",
+    "description": "Gestione di parcheggi e autorimesse",
+    "percentage": "67%"
+  },
+  {
+    "code": "52.21.60",
+    "description": "Attività di traino e soccorso stradale",
+    "percentage": "67%"
+  },
+  {
+    "code": "52.21.90",
+    "description": "Altre attività connesse ai trasporti terrestri nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "52.22.01",
+    "description": "Liquefazione e rigassificazione di gas a scopo di trasporto marittimo e per vie d'acqua effettuata al di fuori del sito di estrazione",
+    "percentage": "67%"
+  },
+  {
+    "code": "52.22.09",
+    "description": "Altre attività dei servizi connessi al trasporto marittimo e per vie d'acqua",
+    "percentage": "67%"
+  },
+  {
+    "code": "52.23.00",
+    "description": "Attività dei servizi connessi al trasporto aereo",
+    "percentage": "67%"
+  },
+  {
+    "code": "52.24.10",
+    "description": "Movimento merci relativo a trasporti aerei",
+    "percentage": "67%"
+  },
+  {
+    "code": "52.24.20",
+    "description": "Movimento merci relativo a trasporti marittimi e fluviali",
+    "percentage": "67%"
+  },
+  {
+    "code": "52.24.30",
+    "description": "Movimento merci relativo a trasporti ferroviari",
+    "percentage": "67%"
+  },
+  {
+    "code": "52.24.40",
+    "description": "Movimento merci relativo ad altri trasporti terrestri",
+    "percentage": "67%"
+  },
+  {
+    "code": "52.29.10",
+    "description": "Spedizionieri e agenzie di operazioni doganali",
+    "percentage": "67%"
+  },
+  {
+    "code": "52.29.21",
+    "description": "Intermediari dei trasporti",
+    "percentage": "67%"
+  },
+  {
+    "code": "52.29.22",
+    "description": "Servizi logistici relativi alla distribuzione delle merci",
+    "percentage": "67%"
+  },
+  {
+    "code": "53.10.00",
+    "description": "Attività postali con obbligo di servizio universale",
+    "percentage": "67%"
+  },
+  {
+    "code": "53.20.00",
+    "description": "Altre attività postali e di corriere senza obbligo di servizio universale",
+    "percentage": "67%"
+  },
+  {
+    "code": "55.10.00",
+    "description": "Alberghi",
+    "percentage": "40%"
+  },
+  {
+    "code": "55.20.10",
+    "description": "Villaggi turistici",
+    "percentage": "40%"
+  },
+  {
+    "code": "55.20.20",
+    "description": "Ostelli della gioventù",
+    "percentage": "40%"
+  },
+  {
+    "code": "55.20.30",
+    "description": "Rifugi di montagna",
+    "percentage": "40%"
+  },
+  {
+    "code": "55.20.40",
+    "description": "Colonie marine e montane",
+    "percentage": "40%"
+  },
+  {
+    "code": "55.20.51",
+    "description": "Affittacamere per brevi soggiorni, case ed appartamenti per vacanze, bed and breakfast, residence",
+    "percentage": "40%"
+  },
+  {
+    "code": "55.20.52",
+    "description": "Attività di alloggio connesse alle aziende agricole",
+    "percentage": "40%"
+  },
+  {
+    "code": "55.30.00",
+    "description": "Aree di campeggio e aree attrezzate per camper e roulotte",
+    "percentage": "40%"
+  },
+  {
+    "code": "55.90.10",
+    "description": "Gestione di vagoni letto",
+    "percentage": "40%"
+  },
+  {
+    "code": "55.90.20",
+    "description": "Alloggi per studenti e lavoratori con servizi accessori di tipo alberghiero",
+    "percentage": "40%"
+  },
+  {
+    "code": "56.10.11",
+    "description": "Ristorazione con somministrazione",
+    "percentage": "40%"
+  },
+  {
+    "code": "56.10.12",
+    "description": "Attività di ristorazione connesse alle aziende agricole",
+    "percentage": "40%"
+  },
+  {
+    "code": "56.10.20",
+    "description": "Ristorazione senza somministrazione con preparazione di cibi da asporto",
+    "percentage": "40%"
+  },
+  {
+    "code": "56.10.30",
+    "description": "Gelaterie e pasticcerie",
+    "percentage": "40%"
+  },
+  {
+    "code": "56.10.41",
+    "description": "Gelaterie e pasticcerie ambulanti",
+    "percentage": "40%"
+  },
+  {
+    "code": "56.10.42",
+    "description": "Ristorazione ambulante",
+    "percentage": "40%"
+  },
+  {
+    "code": "56.10.50",
+    "description": "Ristorazione su treni e navi",
+    "percentage": "40%"
+  },
+  {
+    "code": "56.21.00",
+    "description": "Catering per eventi, banqueting",
+    "percentage": "40%"
+  },
+  {
+    "code": "56.29.10",
+    "description": "Mense",
+    "percentage": "40%"
+  },
+  {
+    "code": "56.29.20",
+    "description": "Catering continuativo su base contrattuale",
+    "percentage": "40%"
+  },
+  {
+    "code": "56.30.00",
+    "description": "Bar e altri esercizi simili senza cucina",
+    "percentage": "40%"
+  },
+  {
+    "code": "58.11.00",
+    "description": "Edizione di libri",
+    "percentage": "67%"
+  },
+  {
+    "code": "58.12.01",
+    "description": "Pubblicazione di elenchi",
+    "percentage": "67%"
+  },
+  {
+    "code": "58.12.02",
+    "description": "Pubblicazione di mailing list",
+    "percentage": "67%"
+  },
+  {
+    "code": "58.13.00",
+    "description": "Edizione di quotidiani",
+    "percentage": "67%"
+  },
+  {
+    "code": "58.14.00",
+    "description": "Edizione di riviste e periodici",
+    "percentage": "67%"
+  },
+  {
+    "code": "58.19.00",
+    "description": "Altre attività editoriali",
+    "percentage": "67%"
+  },
+  {
+    "code": "58.21.00",
+    "description": "Edizione di giochi per computer",
+    "percentage": "67%"
+  },
+  {
+    "code": "58.29.00",
+    "description": "Edizione di altri software a pacchetto (esclusi giochi per computer)",
+    "percentage": "67%"
+  },
+  {
+    "code": "59.11.00",
+    "description": "Attività di produzione cinematografica, di video e di programmi televisivi",
+    "percentage": "67%"
+  },
+  {
+    "code": "59.12.00",
+    "description": "Attività di post-produzione cinematografica, di video e di programmi televisivi",
+    "percentage": "67%"
+  },
+  {
+    "code": "59.13.00",
+    "description": "Attività di distribuzione cinematografica, di video e di programmi televisivi",
+    "percentage": "67%"
+  },
+  {
+    "code": "59.14.00",
+    "description": "Attività di proiezione cinematografica",
+    "percentage": "67%"
+  },
+  {
+    "code": "59.20.10",
+    "description": "Edizione di registrazioni sonore",
+    "percentage": "67%"
+  },
+  {
+    "code": "59.20.20",
+    "description": "Edizione di musica stampata",
+    "percentage": "67%"
+  },
+  {
+    "code": "59.20.30",
+    "description": "Studi di registrazione sonora",
+    "percentage": "67%"
+  },
+  {
+    "code": "60.10.00",
+    "description": "Trasmissioni radiofoniche",
+    "percentage": "67%"
+  },
+  {
+    "code": "60.20.00",
+    "description": "Programmazione e trasmissioni televisive",
+    "percentage": "67%"
+  },
+  {
+    "code": "",
+    "description": "Telecomunicazioni fisse",
+    "percentage": "67%"
+  },
+  {
+    "code": "61.20.00",
+    "description": "Telecomunicazioni mobili",
+    "percentage": "67%"
+  },
+  {
+    "code": "61.30.00",
+    "description": "Telecomunicazioni satellitari",
+    "percentage": "67%"
+  },
+  {
+    "code": "61.90.10",
+    "description": "Erogazione di servizi di accesso ad internet (ISP)",
+    "percentage": "67%"
+  },
+  {
+    "code": "61.90.20",
+    "description": "Posto telefonico pubblico ed Internet Point",
+    "percentage": "67%"
+  },
+  {
+    "code": "61.90.91",
+    "description": "Intermediazione in servizi di telecomunicazione e trasmissione dati",
+    "percentage": "67%"
+  },
+  {
+    "code": "61.90.99",
+    "description": "Altre attività connesse alle telecomunicazioni nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "62.01.00",
+    "description": "Produzione di software non connesso all'edizione",
+    "percentage": "67%"
+  },
+  {
+    "code": "62.02.00",
+    "description": "Consulenza nel settore delle tecnologie dell'informatica",
+    "percentage": "67%"
+  },
+  {
+    "code": "62.03.00",
+    "description": "Gestione di strutture e apparecchiature informatiche hardware - housing (esclusa la riparazione)",
+    "percentage": "67%"
+  },
+  {
+    "code": "62.09.01",
+    "description": "Configurazione di personal computer",
+    "percentage": "67%"
+  },
+  {
+    "code": "62.09.09",
+    "description": "Altre attività dei servizi connessi alle tecnologie dell'informatica nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "63.11.11",
+    "description": "Elaborazione elettronica di dati contabili (esclusi i Centri di assistenza fiscale - Caf)",
+    "percentage": "67%"
+  },
+  {
+    "code": "63.11.19",
+    "description": "Altre elaborazioni elettroniche di dati",
+    "percentage": "67%"
+  },
+  {
+    "code": "63.11.20",
+    "description": "Gestione database (attività delle banche dati)",
+    "percentage": "67%"
+  },
+  {
+    "code": "63.11.30",
+    "description": "Hosting e fornitura di servizi applicativi (ASP)",
+    "percentage": "67%"
+  },
+  {
+    "code": "63.12.00",
+    "description": "Portali web",
+    "percentage": "67%"
+  },
+  {
+    "code": "63.91.00",
+    "description": "Attività delle agenzie di stampa",
+    "percentage": "67%"
+  },
+  {
+    "code": "63.99.00",
+    "description": "Altre attività dei servizi di informazione nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "64.11.00",
+    "description": "Attività della Banca Centrale",
+    "percentage": "78%"
+  },
+  {
+    "code": "64.19.10",
+    "description": "Intermediazione monetaria di istituti monetari diverse dalle Banche centrali",
+    "percentage": "78%"
+  },
+  {
+    "code": "64.19.20",
+    "description": "Fondi comuni di investimento monetario",
+    "percentage": "78%"
+  },
+  {
+    "code": "64.19.30",
+    "description": "Istituti di moneta elettronica (Imel)",
+    "percentage": "78%"
+  },
+  {
+    "code": "64.19.40",
+    "description": "Cassa Depositi e Prestiti",
+    "percentage": "78%"
+  },
+  {
+    "code": "64.20.00",
+    "description": "Attività delle società di partecipazione (holding)",
+    "percentage": "78%"
+  },
+  {
+    "code": "64.30.10",
+    "description": "Fondi comuni di investimento (aperti e chiusi, immobiliari, di mercato mobiliare)",
+    "percentage": "78%"
+  },
+  {
+    "code": "64.30.20",
+    "description": "Sicav (Società di investimento a capitale variabile)",
+    "percentage": "78%"
+  },
+  {
+    "code": "64.91.00",
+    "description": "Leasing finanziario",
+    "percentage": "78%"
+  },
+  {
+    "code": "64.92.01",
+    "description": "Attività dei consorzi di garanzia collettiva fidi",
+    "percentage": "78%"
+  },
+  {
+    "code": "64.92.09",
+    "description": "Altre attività creditizie nca",
+    "percentage": "78%"
+  },
+  {
+    "code": "64.99.10",
+    "description": "Attività di intermediazione mobiliare",
+    "percentage": "78%"
+  },
+  {
+    "code": "64.99.20",
+    "description": "Attività di factoring",
+    "percentage": "78%"
+  },
+  {
+    "code": "64.99.30",
+    "description": "Attività di merchant bank",
+    "percentage": "78%"
+  },
+  {
+    "code": "64.99.40",
+    "description": "Attività delle società veicolo",
+    "percentage": "78%"
+  },
+  {
+    "code": "64.99.50",
+    "description": "Attività di intermediazione in cambi",
+    "percentage": "78%"
+  },
+  {
+    "code": "64.99.60",
+    "description": "Altre intermediazioni finanziarie nca",
+    "percentage": "78%"
+  },
+  {
+    "code": "65.11.00",
+    "description": "Assicurazioni sulla vita",
+    "percentage": "78%"
+  },
+  {
+    "code": "65.12.00",
+    "description": "Assicurazioni diverse da quelle sulla vita",
+    "percentage": "78%"
+  },
+  {
+    "code": "65.20.00",
+    "description": "Attività di riassicurazione",
+    "percentage": "78%"
+  },
+  {
+    "code": "65.30.10",
+    "description": "Attività dei fondi pensione aperti",
+    "percentage": "78%"
+  },
+  {
+    "code": "65.30.20",
+    "description": "Attività dei fondi pensione negoziali",
+    "percentage": "78%"
+  },
+  {
+    "code": "65.30.30",
+    "description": "Attività dei fondi pensione preesistenti",
+    "percentage": "78%"
+  },
+  {
+    "code": "66.11.00",
+    "description": "Amministrazione di mercati finanziari",
+    "percentage": "78%"
+  },
+  {
+    "code": "66.12.00",
+    "description": "Attività di negoziazione di contratti relativi a titoli e merci",
+    "percentage": "78%"
+  },
+  {
+    "code": "66.19.10",
+    "description": "Attività di gestione ed elaborazione di pagamenti tramite carta di credito",
+    "percentage": "78%"
+  },
+  {
+    "code": "66.19.21",
+    "description": "Promotori finanziari",
+    "percentage": "78%"
+  },
+  {
+    "code": "66.19.22",
+    "description": "Agenti, mediatori e procacciatori in prodotti finanziari",
+    "percentage": "78%"
+  },
+  {
+    "code": "66.19.30",
+    "description": "Attività delle società fiduciarie di amministrazione",
+    "percentage": "78%"
+  },
+  {
+    "code": "66.19.40",
+    "description": "Attività di Bancoposta",
+    "percentage": "78%"
+  },
+  {
+    "code": "66.19.50",
+    "description": "Servizi di trasferimento di denaro (money transfer)",
+    "percentage": "78%"
+  },
+  {
+    "code": "66.21.00",
+    "description": "Attività dei periti e liquidatori indipendenti delle assicurazioni",
+    "percentage": "78%"
+  },
+  {
+    "code": "66.22.01",
+    "description": "Broker di assicurazioni",
+    "percentage": "78%"
+  },
+  {
+    "code": "66.22.02",
+    "description": "Agenti di assicurazioni",
+    "percentage": "78%"
+  },
+  {
+    "code": "66.22.03",
+    "description": "Sub-agenti di assicurazioni",
+    "percentage": "78%"
+  },
+  {
+    "code": "66.22.04",
+    "description": "Produttori, procacciatori ed altri intermediari delle assicurazioni",
+    "percentage": "78%"
+  },
+  {
+    "code": "66.29.01",
+    "description": "Autorità centrali di vigilanza su assicurazioni e fondi pensione",
+    "percentage": "78%"
+  },
+  {
+    "code": "66.29.09",
+    "description": "Altre attività ausiliarie delle assicurazioni e dei fondi pensione nca",
+    "percentage": "78%"
+  },
+  {
+    "code": "66.30.00",
+    "description": "Gestione di fondi comuni di investimento e dei fondi pensione",
+    "percentage": "78%"
+  },
+  {
+    "code": "68.10.00",
+    "description": "Compravendita di beni immobili effettuata su beni propri",
+    "percentage": "86%"
+  },
+  {
+    "code": "68.20.01",
+    "description": "Locazione immobiliare di beni propri o in leasing (affitto)",
+    "percentage": "86%"
+  },
+  {
+    "code": "68.20.02",
+    "description": "Affitto di aziende",
+    "percentage": "86%"
+  },
+  {
+    "code": "68.31.00",
+    "description": "Attività di mediazione immobiliare",
+    "percentage": "86%"
+  },
+  {
+    "code": "68.32.00",
+    "description": "Amministrazione di condomini e gestione di beni immobili per conto terzi",
+    "percentage": "86%"
+  },
+  {
+    "code": "69.10.10",
+    "description": "Attività degli studi legali",
+    "percentage": "78%"
+  },
+  {
+    "code": "69.10.20",
+    "description": "Attività degli studi notarili",
+    "percentage": "78%"
+  },
+  {
+    "code": "69.20.11",
+    "description": "Servizi forniti da dottori commercialisti",
+    "percentage": "78%"
+  },
+  {
+    "code": "69.20.12",
+    "description": "Servizi forniti da ragionieri e periti commerciali",
+    "percentage": "78%"
+  },
+  {
+    "code": "69.20.13",
+    "description": "Servizi forniti da revisori contabili, periti, consulenti ed altri soggetti che svolgono attività in materia di amministrazione, contabilità e tributi",
+    "percentage": "78%"
+  },
+  {
+    "code": "69.20.14",
+    "description": "Attività svolta dai Centri di assistenza fiscale (Caf)",
+    "percentage": "78%"
+  },
+  {
+    "code": "69.20.15",
+    "description": "Gestione ed amministrazione del personale per conto terzi",
+    "percentage": "78%"
+  },
+  {
+    "code": "69.20.20",
+    "description": "Attività delle società di revisione e certificazione di bilanci",
+    "percentage": "78%"
+  },
+  {
+    "code": "69.20.30",
+    "description": "Attività dei consulenti del lavoro",
+    "percentage": "78%"
+  },
+  {
+    "code": "70.10.00",
+    "description": "Attività delle holding impegnate nelle attività gestionali (holding operative)",
+    "percentage": "78%"
+  },
+  {
+    "code": "70.21.00",
+    "description": "Pubbliche relazioni e comunicazione",
+    "percentage": "78%"
+  },
+  {
+    "code": "70.22.01",
+    "description": "Attività di consulenza per la gestione della logistica aziendale",
+    "percentage": "78%"
+  },
+  {
+    "code": "70.22.09",
+    "description": "Altre attività di consulenza imprenditoriale e altra consulenza amministrativo-gestionale e pianificazione aziendale",
+    "percentage": "78%"
+  },
+  {
+    "code": "71.11.00",
+    "description": "Attività degli studi di architettura",
+    "percentage": "78%"
+  },
+  {
+    "code": "71.12.10",
+    "description": "Attività degli studi di ingegneria",
+    "percentage": "78%"
+  },
+  {
+    "code": "71.12.20",
+    "description": "Servizi di progettazione di ingegneria integrata",
+    "percentage": "78%"
+  },
+  {
+    "code": "71.12.30",
+    "description": "Attività tecniche svolte da geometri",
+    "percentage": "78%"
+  },
+  {
+    "code": "71.12.40",
+    "description": "Attività di cartografia e aerofotogrammetria",
+    "percentage": "78%"
+  },
+  {
+    "code": "71.12.50",
+    "description": "Attività di studio geologico e di prospezione geognostica e mineraria",
+    "percentage": "78%"
+  },
+  {
+    "code": "71.20.10",
+    "description": "Collaudi e analisi tecniche di prodotti",
+    "percentage": "78%"
+  },
+  {
+    "code": "71.20.21",
+    "description": "Controllo di qualità e certificazione di prodotti, processi e sistemi",
+    "percentage": "78%"
+  },
+  {
+    "code": "71.20.22",
+    "description": "Attività per la tutela di beni di produzione controllata",
+    "percentage": "78%"
+  },
+  {
+    "code": "72.11.00",
+    "description": "Ricerca e sviluppo sperimentale nel campo delle biotecnologie",
+    "percentage": "78%"
+  },
+  {
+    "code": "72.19.01",
+    "description": "Ricerca e sviluppo sperimentale nel campo della geologia",
+    "percentage": "78%"
+  },
+  {
+    "code": "72.19.09",
+    "description": "Ricerca e sviluppo sperimentale nel campo delle altre scienze naturali e dell'ingegneria",
+    "percentage": "78%"
+  },
+  {
+    "code": "72.20.00",
+    "description": "Ricerca e sviluppo sperimentale nel campo delle scienze sociali e umanistiche",
+    "percentage": "78%"
+  },
+  {
+    "code": "73.11.01",
+    "description": "Ideazione di campagne pubblicitarie",
+    "percentage": "78%"
+  },
+  {
+    "code": "73.11.02",
+    "description": "Conduzione di campagne di marketing e altri servizi pubblicitari",
+    "percentage": "78%"
+  },
+  {
+    "code": "73.12.00",
+    "description": "Attività delle concessionarie e degli altri intermediari di servizi pubblicitari",
+    "percentage": "78%"
+  },
+  {
+    "code": "73.20.00",
+    "description": "Ricerche di mercato e sondaggi di opinione",
+    "percentage": "78%"
+  },
+  {
+    "code": "74.10.10",
+    "description": "Attività di design di moda e design industriale",
+    "percentage": "78%"
+  },
+  {
+    "code": "74.10.21",
+    "description": "Attività dei disegnatori grafici di pagine web",
+    "percentage": "78%"
+  },
+  {
+    "code": "74.10.29",
+    "description": "Altre attività dei disegnatori grafici",
+    "percentage": "78%"
+  },
+  {
+    "code": "74.10.30",
+    "description": "Attività dei disegnatori tecnici",
+    "percentage": "78%"
+  },
+  {
+    "code": "74.10.90",
+    "description": "Altre attività di design",
+    "percentage": "78%"
+  },
+  {
+    "code": "74.20.11",
+    "description": "Attività di fotoreporter",
+    "percentage": "78%"
+  },
+  {
+    "code": "74.20.12",
+    "description": "Attività di riprese aeree nel campo della fotografia",
+    "percentage": "78%"
+  },
+  {
+    "code": "74.20.19",
+    "description": "Altre attività di riprese fotografiche",
+    "percentage": "78%"
+  },
+  {
+    "code": "74.20.20",
+    "description": "Laboratori fotografici per lo sviluppo e la stampa",
+    "percentage": "78%"
+  },
+  {
+    "code": "74.30.00",
+    "description": "Traduzione e interpretariato",
+    "percentage": "78%"
+  },
+  {
+    "code": "74.90.11",
+    "description": "Consulenza agraria fornita da agronomi",
+    "percentage": "78%"
+  },
+  {
+    "code": "74.90.12",
+    "description": "Consulenza agraria fornita da agrotecnici e periti agrari",
+    "percentage": "78%"
+  },
+  {
+    "code": "74.90.21",
+    "description": "Consulenza sulla sicurezza ed igiene dei posti di lavoro",
+    "percentage": "78%"
+  },
+  {
+    "code": "74.90.29",
+    "description": "Altra attività di consulenza in materia di sicurezza",
+    "percentage": "78%"
+  },
+  {
+    "code": "74.90.91",
+    "description": "Attività tecniche svolte da periti industriali",
+    "percentage": "78%"
+  },
+  {
+    "code": "74.90.92",
+    "description": "Attività riguardanti le previsioni meteorologiche",
+    "percentage": "78%"
+  },
+  {
+    "code": "74.90.93",
+    "description": "Altre attività di consulenza tecnica nca",
+    "percentage": "78%"
+  },
+  {
+    "code": "74.90.94",
+    "description": "Agenzie ed agenti o procuratori per lo spettacolo e lo sport",
+    "percentage": "78%"
+  },
+  {
+    "code": "74.90.99",
+    "description": "Altre attività professionali nca",
+    "percentage": "78%"
+  },
+  {
+    "code": "75.00.00",
+    "description": "Servizi veterinari",
+    "percentage": "78%"
+  },
+  {
+    "code": "77.11.00",
+    "description": "Noleggio di autovetture ed autoveicoli leggeri",
+    "percentage": "67%"
+  },
+  {
+    "code": "77.12.00",
+    "description": "Noleggio di autocarri e di altri veicoli pesanti",
+    "percentage": "67%"
+  },
+  {
+    "code": "77.21.01",
+    "description": "Noleggio di biciclette",
+    "percentage": "67%"
+  },
+  {
+    "code": "77.21.02",
+    "description": "Noleggio senza equipaggio di imbarcazioni da diporto (inclusi i pedalò)",
+    "percentage": "67%"
+  },
+  {
+    "code": "77.21.09",
+    "description": "Noleggio di altre attrezzature sportive e ricreative",
+    "percentage": "67%"
+  },
+  {
+    "code": "77.22.00",
+    "description": "Noleggio di videocassette, Cd, Dvd e dischi contenenti audiovisivi o videogame",
+    "percentage": "67%"
+  },
+  {
+    "code": "77.29.10",
+    "description": "Noleggio di biancheria da tavola, da letto, da bagno e di articoli di vestiario",
+    "percentage": "67%"
+  },
+  {
+    "code": "77.29.90",
+    "description": "Noleggio di altri beni per uso personale e domestico nca (escluse le attrezzature sportive e ricreative)",
+    "percentage": "67%"
+  },
+  {
+    "code": "77.31.00",
+    "description": "Noleggio di macchine e attrezzature agricole",
+    "percentage": "67%"
+  },
+  {
+    "code": "77.32.00",
+    "description": "Noleggio di macchine e attrezzature per lavori edili e di genio civile",
+    "percentage": "67%"
+  },
+  {
+    "code": "77.33.00",
+    "description": "Noleggio di macchine e attrezzature per ufficio (inclusi i computer)",
+    "percentage": "67%"
+  },
+  {
+    "code": "77.34.00",
+    "description": "Noleggio di mezzi di trasporto marittimo e fluviale",
+    "percentage": "67%"
+  },
+  {
+    "code": "77.35.00",
+    "description": "Noleggio di mezzi di trasporto aereo",
+    "percentage": "67%"
+  },
+  {
+    "code": "77.39.10",
+    "description": "Noleggio di altri mezzi di trasporto terrestri",
+    "percentage": "67%"
+  },
+  {
+    "code": "77.39.91",
+    "description": "Noleggio di container adibiti ad alloggi o ad uffici",
+    "percentage": "67%"
+  },
+  {
+    "code": "77.39.92",
+    "description": "Noleggio di container per diverse modalità di trasporto",
+    "percentage": "67%"
+  },
+  {
+    "code": "77.39.93",
+    "description": "Noleggio senza operatore di attrezzature di sollevamento e movimentazione merci: carrelli elevatori, pallet eccetera",
+    "percentage": "67%"
+  },
+  {
+    "code": "77.39.94",
+    "description": "Noleggio di strutture ed attrezzature per manifestazioni e spettacoli: impianti luce ed audio senza operatore, palchi, stand ed addobbi luminosi",
+    "percentage": "67%"
+  },
+  {
+    "code": "77.39.99",
+    "description": "Noleggio senza operatore di altre macchine ed attrezzature nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "77.40.00",
+    "description": "Concessione dei diritti di sfruttamento di proprietà intellettuale e prodotti simili (escluse le opere protette dal copyright)",
+    "percentage": "67%"
+  },
+  {
+    "code": "78.10.00",
+    "description": "Servizi di ricerca, selezione, collocamento e supporto per il ricollocamento di personale",
+    "percentage": "67%"
+  },
+  {
+    "code": "78.20.00",
+    "description": "Attività delle agenzie di fornitura di lavoro temporaneo (interinale)",
+    "percentage": "67%"
+  },
+  {
+    "code": "78.30.00",
+    "description": "Altre attività di fornitura e gestione di risorse umane (staff leasing)",
+    "percentage": "67%"
+  },
+  {
+    "code": "79.11.00",
+    "description": "Attività delle agenzie di viaggio",
+    "percentage": "67%"
+  },
+  {
+    "code": "79.12.00",
+    "description": "Attività dei tour operator",
+    "percentage": "67%"
+  },
+  {
+    "code": "79.90.11",
+    "description": "Servizi di biglietteria per eventi teatrali, sportivi ed altri eventi ricreativi e d'intrattenimento",
+    "percentage": "67%"
+  },
+  {
+    "code": "79.90.19",
+    "description": "Altri servizi di prenotazione e altre attività di assistenza turistica non svolte dalle agenzie di viaggio nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "79.90.20",
+    "description": "Attività delle guide e degli accompagnatori turistici",
+    "percentage": "67%"
+  },
+  {
+    "code": "80.10.00",
+    "description": "Servizi di vigilanza privata",
+    "percentage": "67%"
+  },
+  {
+    "code": "80.20.00",
+    "description": "Servizi connessi ai sistemi di vigilanza",
+    "percentage": "67%"
+  },
+  {
+    "code": "80.30.00",
+    "description": "Servizi di investigazione privata",
+    "percentage": "67%"
+  },
+  {
+    "code": "81.10.00",
+    "description": "Servizi integrati di gestione agli edifici",
+    "percentage": "67%"
+  },
+  {
+    "code": "81.21.00",
+    "description": "Pulizia generale (non specializzata) di edifici",
+    "percentage": "67%"
+  },
+  {
+    "code": "81.22.01",
+    "description": "Attività di sterilizzazione di attrezzature medico sanitarie",
+    "percentage": "67%"
+  },
+  {
+    "code": "81.22.02",
+    "description": "Altre attività di pulizia specializzata di edifici e di impianti e macchinari industriali",
+    "percentage": "67%"
+  },
+  {
+    "code": "81.29.10",
+    "description": "Servizi di disinfestazione",
+    "percentage": "67%"
+  },
+  {
+    "code": "81.29.91",
+    "description": "Pulizia e lavaggio di aree pubbliche, rimozione di neve e ghiaccio",
+    "percentage": "67%"
+  },
+  {
+    "code": "81.29.99",
+    "description": "Altre attività di pulizia nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "81.30.00",
+    "description": "Cura e manutenzione del paesaggio (inclusi parchi, giardini e aiuole)",
+    "percentage": "67%"
+  },
+  {
+    "code": "82.11.01",
+    "description": "Servizi integrati di supporto per le funzioni d'ufficio",
+    "percentage": "67%"
+  },
+  {
+    "code": "82.11.02",
+    "description": "Gestione di uffici temporanei, uffici residence",
+    "percentage": "67%"
+  },
+  {
+    "code": "82.19.01",
+    "description": "Spedizione di materiale propagandistico, compilazione e gestione di indirizzi",
+    "percentage": "67%"
+  },
+  {
+    "code": "82.19.09",
+    "description": "Servizi di fotocopiatura, preparazione di documenti e altre attività di supporto specializzate per le funzioni d'ufficio",
+    "percentage": "67%"
+  },
+  {
+    "code": "82.20.00",
+    "description": "Attività dei call center",
+    "percentage": "67%"
+  },
+  {
+    "code": "82.30.00",
+    "description": "Organizzazione di convegni e fiere",
+    "percentage": "67%"
+  },
+  {
+    "code": "82.91.10",
+    "description": "Attività di agenzie di recupero crediti",
+    "percentage": "67%"
+  },
+  {
+    "code": "82.91.20",
+    "description": "Agenzie di informazioni commerciali",
+    "percentage": "67%"
+  },
+  {
+    "code": "82.92.10",
+    "description": "Imballaggio e confezionamento di generi alimentari",
+    "percentage": "67%"
+  },
+  {
+    "code": "82.92.20",
+    "description": "Imballaggio e confezionamento di generi non alimentari",
+    "percentage": "67%"
+  },
+  {
+    "code": "82.99.10",
+    "description": "Imprese di gestione esattoriale",
+    "percentage": "67%"
+  },
+  {
+    "code": "82.99.20",
+    "description": "Agenzie di distribuzione di libri, giornali e riviste",
+    "percentage": "67%"
+  },
+  {
+    "code": "82.99.30",
+    "description": "Servizi di gestione di pubblici mercati e pese pubbliche",
+    "percentage": "67%"
+  },
+  {
+    "code": "82.99.40",
+    "description": "Richiesta certificati e disbrigo pratiche",
+    "percentage": "67%"
+  },
+  {
+    "code": "82.99.91",
+    "description": "Servizi di stenotipia",
+    "percentage": "67%"
+  },
+  {
+    "code": "82.99.99",
+    "description": "Altri servizi di sostegno alle imprese nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "85.10.00",
+    "description": "Istruzione di grado preparatorio: scuole dell'infanzia, scuole speciali collegate a quelle primarie",
+    "percentage": "78%"
+  },
+  {
+    "code": "85.20.00",
+    "description": "Istruzione primaria: scuole elementari",
+    "percentage": "78%"
+  },
+  {
+    "code": "85.31.10",
+    "description": "Istruzione secondaria di primo grado: scuole medie",
+    "percentage": "78%"
+  },
+  {
+    "code": "85.31.20",
+    "description": "Istruzione secondaria di secondo grado di formazione generale: licei",
+    "percentage": "78%"
+  },
+  {
+    "code": "85.32.01",
+    "description": "Scuole di vela e navigazione che rilasciano brevetti o patenti commerciali",
+    "percentage": "78%"
+  },
+  {
+    "code": "85.32.02",
+    "description": "Scuole di volo che rilasciano brevetti o patenti commerciali",
+    "percentage": "78%"
+  },
+  {
+    "code": "85.32.03",
+    "description": "Scuole di guida professionale per autisti, ad esempio di autocarri, di autobus e di pullman",
+    "percentage": "78%"
+  },
+  {
+    "code": "85.32.09",
+    "description": "Altra istruzione secondaria di secondo grado di formazione tecnica, professionale e artistica",
+    "percentage": "78%"
+  },
+  {
+    "code": "85.41.00",
+    "description": "Istruzione e formazione tecnica superiore (IFTS)",
+    "percentage": "78%"
+  },
+  {
+    "code": "85.42.00",
+    "description": "Istruzione universitaria e post-universitaria; accademie e conservatori",
+    "percentage": "78%"
+  },
+  {
+    "code": "85.51.00",
+    "description": "Corsi sportivi e ricreativi",
+    "percentage": "78%"
+  },
+  {
+    "code": "85.52.01",
+    "description": "Corsi di danza",
+    "percentage": "78%"
+  },
+  {
+    "code": "85.52.09",
+    "description": "Altra formazione culturale",
+    "percentage": "78%"
+  },
+  {
+    "code": "85.53.00",
+    "description": "Autoscuole, scuole di pilotaggio e nautiche",
+    "percentage": "78%"
+  },
+  {
+    "code": "85.59.10",
+    "description": "Università popolare",
+    "percentage": "78%"
+  },
+  {
+    "code": "85.59.20",
+    "description": "Corsi di formazione e corsi di aggiornamento professionale",
+    "percentage": "78%"
+  },
+  {
+    "code": "85.59.30",
+    "description": "Scuole e corsi di lingua",
+    "percentage": "78%"
+  },
+  {
+    "code": "85.59.90",
+    "description": "Altri servizi di istruzione nca",
+    "percentage": "78%"
+  },
+  {
+    "code": "85.60.01",
+    "description": "Consulenza scolastica e servizi di orientamento scolastico",
+    "percentage": "78%"
+  },
+  {
+    "code": "85.60.09",
+    "description": "Altre attività di supporto all'istruzione",
+    "percentage": "78%"
+  },
+  {
+    "code": "86.10.10",
+    "description": "Ospedali e case di cura generici",
+    "percentage": "78%"
+  },
+  {
+    "code": "86.10.20",
+    "description": "Ospedali e case di cura specialistici",
+    "percentage": "78%"
+  },
+  {
+    "code": "86.10.30",
+    "description": "Istituti, cliniche e policlinici universitari",
+    "percentage": "78%"
+  },
+  {
+    "code": "86.10.40",
+    "description": "Ospedali e case di cura per lunga degenza",
+    "percentage": "78%"
+  },
+  {
+    "code": "86.21.00",
+    "description": "Servizi degli studi medici di medicina generale",
+    "percentage": "78%"
+  },
+  {
+    "code": "86.22.01",
+    "description": "Prestazioni sanitarie svolte da chirurghi",
+    "percentage": "78%"
+  },
+  {
+    "code": "86.22.02",
+    "description": "Ambulatori e poliambulatori del Servizio Sanitario Nazionale",
+    "percentage": "78%"
+  },
+  {
+    "code": "86.22.03",
+    "description": "Attività dei centri di radioterapia",
+    "percentage": "78%"
+  },
+  {
+    "code": "86.22.04",
+    "description": "Attività dei centri di dialisi",
+    "percentage": "78%"
+  },
+  {
+    "code": "86.22.05",
+    "description": "Studi di omeopatia e di agopuntura",
+    "percentage": "78%"
+  },
+  {
+    "code": "86.22.06",
+    "description": "Centri di medicina estetica",
+    "percentage": "78%"
+  },
+  {
+    "code": "86.22.09",
+    "description": "Altri studi medici specialistici e poliambulatori",
+    "percentage": "78%"
+  },
+  {
+    "code": "86.23.00",
+    "description": "Attività degli studi odontoiatrici",
+    "percentage": "78%"
+  },
+  {
+    "code": "86.90.11",
+    "description": "Laboratori radiografici",
+    "percentage": "78%"
+  },
+  {
+    "code": "86.90.12",
+    "description": "Laboratori di analisi cliniche",
+    "percentage": "78%"
+  },
+  {
+    "code": "86.90.13",
+    "description": "Laboratori di igiene e profilassi",
+    "percentage": "78%"
+  },
+  {
+    "code": "86.90.21",
+    "description": "Fisioterapia",
+    "percentage": "78%"
+  },
+  {
+    "code": "86.90.29",
+    "description": "Altre attività paramediche indipendenti nca",
+    "percentage": "78%"
+  },
+  {
+    "code": "86.90.30",
+    "description": "Attività svolta da psicologi",
+    "percentage": "78%"
+  },
+  {
+    "code": "86.90.41",
+    "description": "Attività degli ambulatori tricologici",
+    "percentage": "78%"
+  },
+  {
+    "code": "86.90.42",
+    "description": "Servizi di ambulanza, delle banche del sangue e altri servizi sanitari nca",
+    "percentage": "78%"
+  },
+  {
+    "code": "87.10.00",
+    "description": "Strutture di assistenza infermieristica residenziale per anziani",
+    "percentage": "78%"
+  },
+  {
+    "code": "87.20.00",
+    "description": "Strutture di assistenza residenziale per persone affette da ritardi mentali, disturbi mentali o che abusano di sostanze stupefacenti",
+    "percentage": "78%"
+  },
+  {
+    "code": "87.30.00",
+    "description": "Strutture di assistenza residenziale per anziani e disabili",
+    "percentage": "78%"
+  },
+  {
+    "code": "87.90.00",
+    "description": "Altre strutture di assistenza sociale residenziale",
+    "percentage": "78%"
+  },
+  {
+    "code": "88.10.00",
+    "description": "Assistenza sociale non residenziale per anziani e disabili",
+    "percentage": "78%"
+  },
+  {
+    "code": "88.91.00",
+    "description": "Servizi di asili nido; assistenza diurna per minori disabili",
+    "percentage": "78%"
+  },
+  {
+    "code": "88.99.00",
+    "description": "Altre attività di assistenza sociale non residenziale nca",
+    "percentage": "78%"
+  },
+  {
+    "code": "90.01.01",
+    "description": "Attività nel campo della recitazione",
+    "percentage": "67%"
+  },
+  {
+    "code": "90.01.09",
+    "description": "Altre rappresentazioni artistiche",
+    "percentage": "67%"
+  },
+  {
+    "code": "90.02.01",
+    "description": "Noleggio con operatore di strutture ed attrezzature per manifestazioni e spettacoli",
+    "percentage": "67%"
+  },
+  {
+    "code": "90.02.02",
+    "description": "Attività nel campo della regia",
+    "percentage": "67%"
+  },
+  {
+    "code": "90.02.09",
+    "description": "Altre attività di supporto alle rappresentazioni artistiche",
+    "percentage": "67%"
+  },
+  {
+    "code": "90.03.01",
+    "description": "Attività dei giornalisti indipendenti",
+    "percentage": "67%"
+  },
+  {
+    "code": "90.03.02",
+    "description": "Attività di conservazione e restauro di opere d'arte",
+    "percentage": "67%"
+  },
+  {
+    "code": "90.03.09",
+    "description": "Altre creazioni artistiche e letterarie",
+    "percentage": "67%"
+  },
+  {
+    "code": "90.04.00",
+    "description": "Gestione di teatri, sale da concerto e altre strutture artistiche",
+    "percentage": "67%"
+  },
+  {
+    "code": "91.01.00",
+    "description": "Attività di biblioteche ed archivi",
+    "percentage": "67%"
+  },
+  {
+    "code": "91.02.00",
+    "description": "Attività di musei",
+    "percentage": "67%"
+  },
+  {
+    "code": "91.03.00",
+    "description": "Gestione di luoghi e monumenti storici e attrazioni simili",
+    "percentage": "67%"
+  },
+  {
+    "code": "91.04.00",
+    "description": "Attività degli orti botanici, dei giardini zoologici e delle riserve naturali",
+    "percentage": "67%"
+  },
+  {
+    "code": "92.00.01",
+    "description": "Ricevitorie del Lotto, SuperEnalotto, Totocalcio eccetera",
+    "percentage": "67%"
+  },
+  {
+    "code": "92.00.02",
+    "description": "Gestione di apparecchi che consentono vincite in denaro funzionanti a moneta o a gettone",
+    "percentage": "67%"
+  },
+  {
+    "code": "92.00.09",
+    "description": "Altre attività connesse con le lotterie e le scommesse",
+    "percentage": "67%"
+  },
+  {
+    "code": "93.11.10",
+    "description": "Gestione di stadi",
+    "percentage": "67%"
+  },
+  {
+    "code": "93.11.20",
+    "description": "Gestione di piscine",
+    "percentage": "67%"
+  },
+  {
+    "code": "93.11.30",
+    "description": "Gestione di impianti sportivi polivalenti",
+    "percentage": "67%"
+  },
+  {
+    "code": "93.11.90",
+    "description": "Gestione di altri impianti sportivi nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "93.12.00",
+    "description": "Attività di club sportivi",
+    "percentage": "67%"
+  },
+  {
+    "code": "93.13.00",
+    "description": "Gestione di palestre",
+    "percentage": "67%"
+  },
+  {
+    "code": "93.19.10",
+    "description": "Enti e organizzazioni sportive, promozione di eventi sportivi",
+    "percentage": "67%"
+  },
+  {
+    "code": "93.19.91",
+    "description": "Ricarica di bombole per attività subacquee",
+    "percentage": "67%"
+  },
+  {
+    "code": "93.19.92",
+    "description": "Attività delle guide alpine",
+    "percentage": "67%"
+  },
+  {
+    "code": "93.19.99",
+    "description": "Altre attività sportive nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "93.21.00",
+    "description": "Parchi di divertimento e parchi tematici",
+    "percentage": "67%"
+  },
+  {
+    "code": "93.29.10",
+    "description": "Discoteche, sale da ballo night-club e simili",
+    "percentage": "67%"
+  },
+  {
+    "code": "93.29.20",
+    "description": "Gestione di stabilimenti balneari: marittimi, lacuali e fluviali",
+    "percentage": "67%"
+  },
+  {
+    "code": "93.29.30",
+    "description": "Sale giochi e biliardi",
+    "percentage": "67%"
+  },
+  {
+    "code": "93.29.90",
+    "description": "Altre attività di intrattenimento e di divertimento nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "94.11.00",
+    "description": "Attività di organizzazione di datori di lavoro, federazioni di industria, commercio, artigianato e servizi, associazioni, unioni, federazioni fra istituzioni",
+    "percentage": "67%"
+  },
+  {
+    "code": "94.12.10",
+    "description": "Attività di federazioni e consigli di ordini e collegi professionali",
+    "percentage": "67%"
+  },
+  {
+    "code": "94.12.20",
+    "description": "Attività di associazioni professionali",
+    "percentage": "67%"
+  },
+  {
+    "code": "94.20.00",
+    "description": "Attività dei sindacati di lavoratori dipendenti",
+    "percentage": "67%"
+  },
+  {
+    "code": "94.91.00",
+    "description": "Attività delle organizzazioni religiose nell'esercizio del culto",
+    "percentage": "67%"
+  },
+  {
+    "code": "94.92.00",
+    "description": "Attività dei partiti e delle associazioni politiche",
+    "percentage": "67%"
+  },
+  {
+    "code": "94.99.10",
+    "description": "Attività di organizzazioni per la tutela degli interessi e dei diritti dei cittadini",
+    "percentage": "67%"
+  },
+  {
+    "code": "94.99.20",
+    "description": "Attività di organizzazioni che perseguono fini culturali, ricreativi e la coltivazione di hobby",
+    "percentage": "67%"
+  },
+  {
+    "code": "94.99.30",
+    "description": "Attività di organizzazioni patriottiche e associazioni combattentistiche",
+    "percentage": "67%"
+  },
+  {
+    "code": "94.99.40",
+    "description": "Attività di organizzazioni per la cooperazione e la solidarietà internazionale",
+    "percentage": "67%"
+  },
+  {
+    "code": "94.99.50",
+    "description": "Attività di organizzazioni per la filantropia",
+    "percentage": "67%"
+  },
+  {
+    "code": "94.99.60",
+    "description": "Attività di organizzazioni per la promozione e la difesa degli animali e dell'ambiente",
+    "percentage": "67%"
+  },
+  {
+    "code": "94.99.90",
+    "description": "Attività di altre organizzazioni associative nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "95.11.00",
+    "description": "Riparazione e manutenzione di computer e periferiche",
+    "percentage": "67%"
+  },
+  {
+    "code": "95.12.01",
+    "description": "Riparazione e manutenzione di telefoni fissi, cordless e cellulari",
+    "percentage": "67%"
+  },
+  {
+    "code": "95.12.09",
+    "description": "Riparazione e manutenzione di altre apparecchiature per le comunicazioni",
+    "percentage": "67%"
+  },
+  {
+    "code": "95.21.00",
+    "description": "Riparazione di prodotti elettronici di consumo audio e video",
+    "percentage": "67%"
+  },
+  {
+    "code": "95.22.01",
+    "description": "Riparazione di elettrodomestici e di articoli per la casa",
+    "percentage": "67%"
+  },
+  {
+    "code": "95.22.02",
+    "description": "Riparazione di articoli per il giardinaggio",
+    "percentage": "67%"
+  },
+  {
+    "code": "95.23.00",
+    "description": "Riparazione di calzature e articoli da viaggio in pelle, cuoio o in altri materiali simili",
+    "percentage": "67%"
+  },
+  {
+    "code": "95.24.01",
+    "description": "Riparazione di mobili e di oggetti di arredamento",
+    "percentage": "67%"
+  },
+  {
+    "code": "95.24.02",
+    "description": "Laboratori di tappezzeria",
+    "percentage": "67%"
+  },
+  {
+    "code": "95.25.00",
+    "description": "Riparazione di orologi e di gioielli",
+    "percentage": "67%"
+  },
+  {
+    "code": "95.29.01",
+    "description": "Riparazione di strumenti musicali",
+    "percentage": "67%"
+  },
+  {
+    "code": "95.29.02",
+    "description": "Riparazione di articoli sportivi (escluse le armi sportive) e attrezzature da campeggio (incluse le biciclette)",
+    "percentage": "67%"
+  },
+  {
+    "code": "95.29.03",
+    "description": "Modifica e riparazione di articoli di vestiario non effettuate dalle sartorie",
+    "percentage": "67%"
+  },
+  {
+    "code": "95.29.04",
+    "description": "Servizi di riparazioni rapide, duplicazione chiavi, affilatura coltelli, stampa immediata su articoli tessili, incisioni rapide su metallo non prezioso",
+    "percentage": "67%"
+  },
+  {
+    "code": "95.29.09",
+    "description": "Riparazione di altri beni di consumo per uso personale e per la casa nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "96.01.10",
+    "description": "Attività delle lavanderie industriali",
+    "percentage": "67%"
+  },
+  {
+    "code": "96.01.20",
+    "description": "Altre lavanderie, tintorie",
+    "percentage": "67%"
+  },
+  {
+    "code": "96.02.01",
+    "description": "Servizi dei saloni di barbiere e parrucchiere",
+    "percentage": "67%"
+  },
+  {
+    "code": "96.02.02",
+    "description": "Servizi degli istituti di bellezza",
+    "percentage": "67%"
+  },
+  {
+    "code": "96.02.03",
+    "description": "Servizi di manicure e pedicure",
+    "percentage": "67%"
+  },
+  {
+    "code": "96.03.00",
+    "description": "Servizi di pompe funebri e attività connesse",
+    "percentage": "67%"
+  },
+  {
+    "code": "96.04.10",
+    "description": "Servizi di centri per il benessere fisico (esclusi gli stabilimenti termali)",
+    "percentage": "67%"
+  },
+  {
+    "code": "96.04.20",
+    "description": "Stabilimenti termali",
+    "percentage": "67%"
+  },
+  {
+    "code": "96.09.01",
+    "description": "Attività di sgombero di cantine, solai e garage",
+    "percentage": "67%"
+  },
+  {
+    "code": "96.09.02",
+    "description": "Attività di tatuaggio e piercing",
+    "percentage": "67%"
+  },
+  {
+    "code": "96.09.03",
+    "description": "Agenzie matrimoniali e d'incontro",
+    "percentage": "67%"
+  },
+  {
+    "code": "96.09.04",
+    "description": "Servizi di cura degli animali da compagnia (esclusi i servizi veterinari)",
+    "percentage": "67%"
+  },
+  {
+    "code": "96.09.05",
+    "description": "Organizzazione di feste e cerimonie",
+    "percentage": "67%"
+  },
+  {
+    "code": "96.09.09",
+    "description": "Altre attività di servizi per la persona nca",
+    "percentage": "67%"
+  },
+  {
+    "code": "97.00.00",
+    "description": "Attività di famiglie e convivenze come datori di lavoro per personale domestico",
+    "percentage": "67%"
+  },
+  {
+    "code": "98.10.00",
+    "description": "Produzione di beni indifferenziati per uso proprio da parte di famiglie e convivenze",
+    "percentage": "67%"
+  },
+  {
+    "code": "98.20.00",
+    "description": "Produzione di servizi indifferenziati per uso proprio da parte di famiglie e convivenze",
+    "percentage": "67%"
+  },
+  {
+    "code": "99.00.00",
+    "description": "Organizzazioni ed organismi extraterritoriali",
+    "percentage": "67%"
+  }
+]
