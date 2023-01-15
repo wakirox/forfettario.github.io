@@ -105374,7 +105374,7 @@ return s==null?0:s},
 Pa(a,b,c,d,e,f,g,h,i,j,k,a0){var s,r,q,p,o,n=null,m=a?0.15:0.05,l=(b-c)*m
 f.push(new A.bk(0,B.ai,"Contributi fissi sul minimale",n,n,!1,!1,n,a0.gZ6(),n,n))
 m=k?0.65:1
-s=16243*i/4*m
+s=16243*i/4*m+1.86
 r=A.ai(h)===A.ai(g)&&A.bf(h)<=3?0+s:0
 m=A.ai(h)===A.ai(g)&&A.bf(h)<=3?s:0
 q=A.ai(h)===A.ai(g)&&A.bf(h)<=3?s:0
@@ -105423,7 +105423,7 @@ a.push(new A.bk(a3,B.id,g,"30/06/"+(A.ai(b)+1),r.bg(0,q)+" \u20ac",!1,!1,j,j,a4.
 a0=s.jV()
 p+=s.j8()
 o+=q}else{a.push(new A.bk(m,B.id,g,"30/06/"+(A.ai(b)+1),r.bg(0,m)+" \u20ac",!1,!1,j,j,a4.gxc(),j))
-o+=m}l=a2*0.4
+o+=m}l=a2*0.5
 q=l>0
 if(q)if(a1>0){s=new A.iO(a1,l)
 k=Math.max(0,l-a1)
