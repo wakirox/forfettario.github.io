@@ -1,11 +1,11 @@
 {
-    "name": "tasse_forfettario_flutter",
-    "short_name": "tasse_forfettario_flutter",
+    "name": "Tasse Forfettario",
+    "short_name": "Tasse Forfettario",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Un calcolatore per le tasse del regime forfettario",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
